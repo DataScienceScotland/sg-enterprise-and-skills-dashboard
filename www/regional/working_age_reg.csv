@@ -1,0 +1,859 @@
+NAME,Year,working_age
+Aberdeen City,2016,160821
+Aberdeen City,2017,161570
+Aberdeen City,2018,162100
+Aberdeen City,2019,162209
+Aberdeen City,2020,162059
+Aberdeen City,2021,161812
+Aberdeen City,2022,161617
+Aberdeen City,2023,161358
+Aberdeen City,2024,161177
+Aberdeen City,2025,161076
+Aberdeen City,2026,161095
+Aberdeen City,2027,161030
+Aberdeen City,2028,160975
+Aberdeen City,2029,161009
+Aberdeen City,2030,160993
+Aberdeen City,2031,161132
+Aberdeen City,2032,161215
+Aberdeen City,2033,161244
+Aberdeen City,2034,161386
+Aberdeen City,2035,161639
+Aberdeen City,2036,161706
+Aberdeen City,2037,161864
+Aberdeen City,2038,162047
+Aberdeen City,2039,162412
+Aberdeen City,2040,162727
+Aberdeen City,2041,162945
+Aberdeenshire,2016,165548
+Aberdeenshire,2017,166021
+Aberdeenshire,2018,166475
+Aberdeenshire,2019,166855
+Aberdeenshire,2020,167298
+Aberdeenshire,2021,167557
+Aberdeenshire,2022,168141
+Aberdeenshire,2023,168548
+Aberdeenshire,2024,169152
+Aberdeenshire,2025,169801
+Aberdeenshire,2026,170285
+Aberdeenshire,2027,170664
+Aberdeenshire,2028,170665
+Aberdeenshire,2029,170612
+Aberdeenshire,2030,170561
+Aberdeenshire,2031,170612
+Aberdeenshire,2032,170697
+Aberdeenshire,2033,170633
+Aberdeenshire,2034,170498
+Aberdeenshire,2035,170598
+Aberdeenshire,2036,170566
+Aberdeenshire,2037,170739
+Aberdeenshire,2038,171006
+Aberdeenshire,2039,171458
+Aberdeenshire,2040,172084
+Aberdeenshire,2041,172640
+Angus,2016,70588
+Angus,2017,70557
+Angus,2018,70232
+Angus,2019,70085
+Angus,2020,69983
+Angus,2021,69811
+Angus,2022,69530
+Angus,2023,69249
+Angus,2024,69046
+Angus,2025,68681
+Angus,2026,68423
+Angus,2027,67969
+Angus,2028,67562
+Angus,2029,67204
+Angus,2030,66827
+Angus,2031,66438
+Angus,2032,66035
+Angus,2033,65735
+Angus,2034,65403
+Angus,2035,65192
+Angus,2036,64978
+Angus,2037,64810
+Angus,2038,64716
+Angus,2039,64731
+Angus,2040,64814
+Angus,2041,64878
+Argyll and Bute,2016,52336
+Argyll and Bute,2017,51858
+Argyll and Bute,2018,51412
+Argyll and Bute,2019,50945
+Argyll and Bute,2020,50539
+Argyll and Bute,2021,50025
+Argyll and Bute,2022,49474
+Argyll and Bute,2023,48885
+Argyll and Bute,2024,48357
+Argyll and Bute,2025,47778
+Argyll and Bute,2026,47194
+Argyll and Bute,2027,46612
+Argyll and Bute,2028,45985
+Argyll and Bute,2029,45317
+Argyll and Bute,2030,44664
+Argyll and Bute,2031,44100
+Argyll and Bute,2032,43548
+Argyll and Bute,2033,42950
+Argyll and Bute,2034,42427
+Argyll and Bute,2035,41941
+Argyll and Bute,2036,41559
+Argyll and Bute,2037,41160
+Argyll and Bute,2038,40849
+Argyll and Bute,2039,40633
+Argyll and Bute,2040,40423
+Argyll and Bute,2041,40267
+City of Edinburgh,2016,353873
+City of Edinburgh,2017,357530
+City of Edinburgh,2018,360506
+City of Edinburgh,2019,362503
+City of Edinburgh,2020,364256
+City of Edinburgh,2021,365819
+City of Edinburgh,2022,366997
+City of Edinburgh,2023,368133
+City of Edinburgh,2024,369508
+City of Edinburgh,2025,370890
+City of Edinburgh,2026,371798
+City of Edinburgh,2027,373327
+City of Edinburgh,2028,374161
+City of Edinburgh,2029,375181
+City of Edinburgh,2030,376009
+City of Edinburgh,2031,376878
+City of Edinburgh,2032,377539
+City of Edinburgh,2033,378056
+City of Edinburgh,2034,378907
+City of Edinburgh,2035,379921
+City of Edinburgh,2036,380574
+City of Edinburgh,2037,381247
+City of Edinburgh,2038,382269
+City of Edinburgh,2039,383396
+City of Edinburgh,2040,384490
+City of Edinburgh,2041,385546
+Clackmannanshire,2016,32443
+Clackmannanshire,2017,32325
+Clackmannanshire,2018,32195
+Clackmannanshire,2019,31980
+Clackmannanshire,2020,31843
+Clackmannanshire,2021,31645
+Clackmannanshire,2022,31430
+Clackmannanshire,2023,31257
+Clackmannanshire,2024,31052
+Clackmannanshire,2025,30831
+Clackmannanshire,2026,30533
+Clackmannanshire,2027,30255
+Clackmannanshire,2028,30011
+Clackmannanshire,2029,29733
+Clackmannanshire,2030,29418
+Clackmannanshire,2031,29162
+Clackmannanshire,2032,28787
+Clackmannanshire,2033,28500
+Clackmannanshire,2034,28179
+Clackmannanshire,2035,27958
+Clackmannanshire,2036,27716
+Clackmannanshire,2037,27483
+Clackmannanshire,2038,27299
+Clackmannanshire,2039,27218
+Clackmannanshire,2040,27110
+Clackmannanshire,2041,27023
+Dumfries and Galloway,2016,88999
+Dumfries and Galloway,2017,88411
+Dumfries and Galloway,2018,87751
+Dumfries and Galloway,2019,87153
+Dumfries and Galloway,2020,86545
+Dumfries and Galloway,2021,85946
+Dumfries and Galloway,2022,85392
+Dumfries and Galloway,2023,84763
+Dumfries and Galloway,2024,84079
+Dumfries and Galloway,2025,83418
+Dumfries and Galloway,2026,82644
+Dumfries and Galloway,2027,81853
+Dumfries and Galloway,2028,80888
+Dumfries and Galloway,2029,79907
+Dumfries and Galloway,2030,78861
+Dumfries and Galloway,2031,77978
+Dumfries and Galloway,2032,77087
+Dumfries and Galloway,2033,76251
+Dumfries and Galloway,2034,75469
+Dumfries and Galloway,2035,74830
+Dumfries and Galloway,2036,74217
+Dumfries and Galloway,2037,73731
+Dumfries and Galloway,2038,73413
+Dumfries and Galloway,2039,73212
+Dumfries and Galloway,2040,73107
+Dumfries and Galloway,2041,73017
+Dundee City,2016,98454
+Dundee City,2017,98581
+Dundee City,2018,98503
+Dundee City,2019,98414
+Dundee City,2020,98221
+Dundee City,2021,98018
+Dundee City,2022,97532
+Dundee City,2023,97079
+Dundee City,2024,96752
+Dundee City,2025,96447
+Dundee City,2026,96028
+Dundee City,2027,95776
+Dundee City,2028,95605
+Dundee City,2029,95465
+Dundee City,2030,95105
+Dundee City,2031,94924
+Dundee City,2032,94750
+Dundee City,2033,94550
+Dundee City,2034,94405
+Dundee City,2035,94350
+Dundee City,2036,94237
+Dundee City,2037,94305
+Dundee City,2038,94467
+Dundee City,2039,94715
+Dundee City,2040,94933
+Dundee City,2041,95096
+East Ayrshire,2016,77024
+East Ayrshire,2017,76620
+East Ayrshire,2018,76155
+East Ayrshire,2019,75768
+East Ayrshire,2020,75460
+East Ayrshire,2021,75117
+East Ayrshire,2022,74646
+East Ayrshire,2023,74225
+East Ayrshire,2024,73754
+East Ayrshire,2025,73353
+East Ayrshire,2026,72838
+East Ayrshire,2027,72428
+East Ayrshire,2028,71986
+East Ayrshire,2029,71426
+East Ayrshire,2030,70653
+East Ayrshire,2031,70085
+East Ayrshire,2032,69505
+East Ayrshire,2033,68893
+East Ayrshire,2034,68307
+East Ayrshire,2035,67822
+East Ayrshire,2036,67344
+East Ayrshire,2037,66931
+East Ayrshire,2038,66626
+East Ayrshire,2039,66441
+East Ayrshire,2040,66276
+East Ayrshire,2041,66173
+East Dunbartonshire,2016,65325
+East Dunbartonshire,2017,65301
+East Dunbartonshire,2018,65151
+East Dunbartonshire,2019,65028
+East Dunbartonshire,2020,64931
+East Dunbartonshire,2021,64814
+East Dunbartonshire,2022,64667
+East Dunbartonshire,2023,64465
+East Dunbartonshire,2024,64256
+East Dunbartonshire,2025,64194
+East Dunbartonshire,2026,64041
+East Dunbartonshire,2027,63993
+East Dunbartonshire,2028,63841
+East Dunbartonshire,2029,63710
+East Dunbartonshire,2030,63642
+East Dunbartonshire,2031,63662
+East Dunbartonshire,2032,63581
+East Dunbartonshire,2033,63517
+East Dunbartonshire,2034,63497
+East Dunbartonshire,2035,63523
+East Dunbartonshire,2036,63524
+East Dunbartonshire,2037,63581
+East Dunbartonshire,2038,63736
+East Dunbartonshire,2039,64012
+East Dunbartonshire,2040,64304
+East Dunbartonshire,2041,64588
+East Lothian,2016,64703
+East Lothian,2017,65077
+East Lothian,2018,65417
+East Lothian,2019,65647
+East Lothian,2020,65997
+East Lothian,2021,66248
+East Lothian,2022,66446
+East Lothian,2023,66665
+East Lothian,2024,66893
+East Lothian,2025,67066
+East Lothian,2026,67144
+East Lothian,2027,67312
+East Lothian,2028,67374
+East Lothian,2029,67418
+East Lothian,2030,67349
+East Lothian,2031,67429
+East Lothian,2032,67411
+East Lothian,2033,67315
+East Lothian,2034,67399
+East Lothian,2035,67475
+East Lothian,2036,67517
+East Lothian,2037,67672
+East Lothian,2038,67858
+East Lothian,2039,68179
+East Lothian,2040,68551
+East Lothian,2041,68935
+East Renfrewshire,2016,56795
+East Renfrewshire,2017,56870
+East Renfrewshire,2018,56958
+East Renfrewshire,2019,57074
+East Renfrewshire,2020,57190
+East Renfrewshire,2021,57237
+East Renfrewshire,2022,57300
+East Renfrewshire,2023,57420
+East Renfrewshire,2024,57541
+East Renfrewshire,2025,57684
+East Renfrewshire,2026,57907
+East Renfrewshire,2027,58171
+East Renfrewshire,2028,58390
+East Renfrewshire,2029,58508
+East Renfrewshire,2030,58768
+East Renfrewshire,2031,58931
+East Renfrewshire,2032,59100
+East Renfrewshire,2033,59244
+East Renfrewshire,2034,59411
+East Renfrewshire,2035,59693
+East Renfrewshire,2036,59925
+East Renfrewshire,2037,60182
+East Renfrewshire,2038,60453
+East Renfrewshire,2039,60830
+East Renfrewshire,2040,61235
+East Renfrewshire,2041,61598
+Falkirk,2016,101864
+Falkirk,2017,102083
+Falkirk,2018,102209
+Falkirk,2019,102506
+Falkirk,2020,102760
+Falkirk,2021,102974
+Falkirk,2022,103092
+Falkirk,2023,103218
+Falkirk,2024,103292
+Falkirk,2025,103396
+Falkirk,2026,103382
+Falkirk,2027,103219
+Falkirk,2028,103075
+Falkirk,2029,102714
+Falkirk,2030,102303
+Falkirk,2031,101919
+Falkirk,2032,101430
+Falkirk,2033,100890
+Falkirk,2034,100454
+Falkirk,2035,100096
+Falkirk,2036,99714
+Falkirk,2037,99351
+Falkirk,2038,99138
+Falkirk,2039,99074
+Falkirk,2040,99045
+Falkirk,2041,99109
+Fife,2016,232300
+Fife,2017,232103
+Fife,2018,231489
+Fife,2019,230890
+Fife,2020,230379
+Fife,2021,229735
+Fife,2022,229010
+Fife,2023,228041
+Fife,2024,227232
+Fife,2025,226438
+Fife,2026,225728
+Fife,2027,225053
+Fife,2028,224085
+Fife,2029,222942
+Fife,2030,221681
+Fife,2031,220704
+Fife,2032,219401
+Fife,2033,218025
+Fife,2034,216823
+Fife,2035,215972
+Fife,2036,214999
+Fife,2037,214264
+Fife,2038,213860
+Fife,2039,213745
+Fife,2040,213721
+Fife,2041,213756
+Glasgow City,2016,432793
+Glasgow City,2017,436471
+Glasgow City,2018,439186
+Glasgow City,2019,440862
+Glasgow City,2020,442043
+Glasgow City,2021,442515
+Glasgow City,2022,441914
+Glasgow City,2023,441126
+Glasgow City,2024,440406
+Glasgow City,2025,439752
+Glasgow City,2026,438723
+Glasgow City,2027,438020
+Glasgow City,2028,437343
+Glasgow City,2029,436509
+Glasgow City,2030,435731
+Glasgow City,2031,435096
+Glasgow City,2032,434466
+Glasgow City,2033,433624
+Glasgow City,2034,433208
+Glasgow City,2035,433173
+Glasgow City,2036,433239
+Glasgow City,2037,433606
+Glasgow City,2038,434416
+Glasgow City,2039,435559
+Glasgow City,2040,436736
+Glasgow City,2041,437741
+Highland,2016,144722
+Highland,2017,144398
+Highland,2018,143978
+Highland,2019,143539
+Highland,2020,143243
+Highland,2021,142841
+Highland,2022,142313
+Highland,2023,141733
+Highland,2024,141193
+Highland,2025,140658
+Highland,2026,139771
+Highland,2027,139027
+Highland,2028,138185
+Highland,2029,137073
+Highland,2030,135878
+Highland,2031,134853
+Highland,2032,133915
+Highland,2033,132871
+Highland,2034,132114
+Highland,2035,131418
+Highland,2036,130732
+Highland,2037,130177
+Highland,2038,129870
+Highland,2039,129789
+Highland,2040,129665
+Highland,2041,129581
+Inverclyde,2016,50140
+Inverclyde,2017,49784
+Inverclyde,2018,49323
+Inverclyde,2019,48924
+Inverclyde,2020,48541
+Inverclyde,2021,48147
+Inverclyde,2022,47637
+Inverclyde,2023,47183
+Inverclyde,2024,46623
+Inverclyde,2025,46019
+Inverclyde,2026,45431
+Inverclyde,2027,44824
+Inverclyde,2028,44159
+Inverclyde,2029,43564
+Inverclyde,2030,42983
+Inverclyde,2031,42387
+Inverclyde,2032,41758
+Inverclyde,2033,41151
+Inverclyde,2034,40682
+Inverclyde,2035,40270
+Inverclyde,2036,39852
+Inverclyde,2037,39518
+Inverclyde,2038,39221
+Inverclyde,2039,39014
+Inverclyde,2040,38769
+Inverclyde,2041,38618
+Midlothian,2016,55334
+Midlothian,2017,55828
+Midlothian,2018,56266
+Midlothian,2019,56765
+Midlothian,2020,57315
+Midlothian,2021,57843
+Midlothian,2022,58296
+Midlothian,2023,58741
+Midlothian,2024,59240
+Midlothian,2025,59744
+Midlothian,2026,60260
+Midlothian,2027,60725
+Midlothian,2028,61181
+Midlothian,2029,61660
+Midlothian,2030,62141
+Midlothian,2031,62638
+Midlothian,2032,63110
+Midlothian,2033,63439
+Midlothian,2034,63901
+Midlothian,2035,64381
+Midlothian,2036,64826
+Midlothian,2037,65402
+Midlothian,2038,66041
+Midlothian,2039,66697
+Midlothian,2040,67364
+Midlothian,2041,68026
+Moray,2016,59789
+Moray,2017,59891
+Moray,2018,59916
+Moray,2019,59943
+Moray,2020,59996
+Moray,2021,59953
+Moray,2022,59944
+Moray,2023,59962
+Moray,2024,60106
+Moray,2025,60108
+Moray,2026,60069
+Moray,2027,59970
+Moray,2028,59739
+Moray,2029,59567
+Moray,2030,59352
+Moray,2031,59093
+Moray,2032,58855
+Moray,2033,58578
+Moray,2034,58318
+Moray,2035,58152
+Moray,2036,57918
+Moray,2037,57751
+Moray,2038,57673
+Moray,2039,57679
+Moray,2040,57717
+Moray,2041,57785
+Na h-Eileanan Siar,2016,15954
+Na h-Eileanan Siar,2017,15777
+Na h-Eileanan Siar,2018,15598
+Na h-Eileanan Siar,2019,15439
+Na h-Eileanan Siar,2020,15290
+Na h-Eileanan Siar,2021,15126
+Na h-Eileanan Siar,2022,14971
+Na h-Eileanan Siar,2023,14835
+Na h-Eileanan Siar,2024,14665
+Na h-Eileanan Siar,2025,14482
+Na h-Eileanan Siar,2026,14296
+Na h-Eileanan Siar,2027,14054
+Na h-Eileanan Siar,2028,13866
+Na h-Eileanan Siar,2029,13679
+Na h-Eileanan Siar,2030,13505
+Na h-Eileanan Siar,2031,13320
+Na h-Eileanan Siar,2032,13119
+Na h-Eileanan Siar,2033,12912
+Na h-Eileanan Siar,2034,12728
+Na h-Eileanan Siar,2035,12566
+Na h-Eileanan Siar,2036,12411
+Na h-Eileanan Siar,2037,12270
+Na h-Eileanan Siar,2038,12161
+Na h-Eileanan Siar,2039,12072
+Na h-Eileanan Siar,2040,11974
+Na h-Eileanan Siar,2041,11888
+North Ayrshire,2016,83535
+North Ayrshire,2017,82987
+North Ayrshire,2018,82316
+North Ayrshire,2019,81696
+North Ayrshire,2020,81076
+North Ayrshire,2021,80367
+North Ayrshire,2022,79696
+North Ayrshire,2023,78999
+North Ayrshire,2024,78196
+North Ayrshire,2025,77537
+North Ayrshire,2026,76756
+North Ayrshire,2027,76027
+North Ayrshire,2028,75187
+North Ayrshire,2029,74161
+North Ayrshire,2030,73223
+North Ayrshire,2031,72332
+North Ayrshire,2032,71441
+North Ayrshire,2033,70584
+North Ayrshire,2034,69756
+North Ayrshire,2035,69046
+North Ayrshire,2036,68326
+North Ayrshire,2037,67737
+North Ayrshire,2038,67284
+North Ayrshire,2039,66924
+North Ayrshire,2040,66629
+North Ayrshire,2041,66355
+North Lanarkshire,2016,219594
+North Lanarkshire,2017,219451
+North Lanarkshire,2018,219015
+North Lanarkshire,2019,218695
+North Lanarkshire,2020,218486
+North Lanarkshire,2021,218072
+North Lanarkshire,2022,217431
+North Lanarkshire,2023,216758
+North Lanarkshire,2024,216173
+North Lanarkshire,2025,215516
+North Lanarkshire,2026,214568
+North Lanarkshire,2027,213441
+North Lanarkshire,2028,212260
+North Lanarkshire,2029,210904
+North Lanarkshire,2030,209274
+North Lanarkshire,2031,207867
+North Lanarkshire,2032,206368
+North Lanarkshire,2033,204677
+North Lanarkshire,2034,203192
+North Lanarkshire,2035,201901
+North Lanarkshire,2036,200646
+North Lanarkshire,2037,199495
+North Lanarkshire,2038,198723
+North Lanarkshire,2039,198172
+North Lanarkshire,2040,197688
+North Lanarkshire,2041,197107
+Orkney Islands,2016,13367
+Orkney Islands,2017,13300
+Orkney Islands,2018,13201
+Orkney Islands,2019,13139
+Orkney Islands,2020,13054
+Orkney Islands,2021,12996
+Orkney Islands,2022,12905
+Orkney Islands,2023,12865
+Orkney Islands,2024,12805
+Orkney Islands,2025,12736
+Orkney Islands,2026,12634
+Orkney Islands,2027,12570
+Orkney Islands,2028,12448
+Orkney Islands,2029,12340
+Orkney Islands,2030,12183
+Orkney Islands,2031,12052
+Orkney Islands,2032,11901
+Orkney Islands,2033,11775
+Orkney Islands,2034,11682
+Orkney Islands,2035,11588
+Orkney Islands,2036,11517
+Orkney Islands,2037,11453
+Orkney Islands,2038,11383
+Orkney Islands,2039,11358
+Orkney Islands,2040,11331
+Orkney Islands,2041,11308
+Perth and Kinross,2016,92250
+Perth and Kinross,2017,92374
+Perth and Kinross,2018,92230
+Perth and Kinross,2019,92298
+Perth and Kinross,2020,92356
+Perth and Kinross,2021,92478
+Perth and Kinross,2022,92310
+Perth and Kinross,2023,92207
+Perth and Kinross,2024,92089
+Perth and Kinross,2025,92157
+Perth and Kinross,2026,91922
+Perth and Kinross,2027,91735
+Perth and Kinross,2028,91344
+Perth and Kinross,2029,90895
+Perth and Kinross,2030,90369
+Perth and Kinross,2031,90013
+Perth and Kinross,2032,89600
+Perth and Kinross,2033,89103
+Perth and Kinross,2034,88758
+Perth and Kinross,2035,88531
+Perth and Kinross,2036,88307
+Perth and Kinross,2037,88081
+Perth and Kinross,2038,88067
+Perth and Kinross,2039,88164
+Perth and Kinross,2040,88357
+Perth and Kinross,2041,88513
+Renfrewshire,2016,113311
+Renfrewshire,2017,113427
+Renfrewshire,2018,113343
+Renfrewshire,2019,113127
+Renfrewshire,2020,112968
+Renfrewshire,2021,112789
+Renfrewshire,2022,112527
+Renfrewshire,2023,112030
+Renfrewshire,2024,111651
+Renfrewshire,2025,111199
+Renfrewshire,2026,110517
+Renfrewshire,2027,109990
+Renfrewshire,2028,109548
+Renfrewshire,2029,109025
+Renfrewshire,2030,108343
+Renfrewshire,2031,107672
+Renfrewshire,2032,107036
+Renfrewshire,2033,106356
+Renfrewshire,2034,105889
+Renfrewshire,2035,105438
+Renfrewshire,2036,105094
+Renfrewshire,2037,104916
+Renfrewshire,2038,104930
+Renfrewshire,2039,105042
+Renfrewshire,2040,105184
+Renfrewshire,2041,105419
+Scotland,2016,3489931
+Scotland,2017,3496170
+Scotland,2018,3497521
+Scotland,2019,3496799
+Scotland,2020,3496549
+Scotland,2021,3493471
+Scotland,2022,3487187
+Scotland,2023,3479959
+Scotland,2024,3473649
+Scotland,2025,3467457
+Scotland,2026,3457739
+Scotland,2027,3449740
+Scotland,2028,3438610
+Scotland,2029,3426138
+Scotland,2030,3412026
+Scotland,2031,3400545
+Scotland,2032,3387845
+Scotland,2033,3373503
+Scotland,2034,3362442
+Scotland,2035,3354687
+Scotland,2036,3346246
+Scotland,2037,3340772
+Scotland,2038,3339646
+Scotland,2039,3342598
+Scotland,2040,3346489
+Scotland,2041,3350710
+Scottish Borders,2016,68285
+Scottish Borders,2017,68060
+Scottish Borders,2018,67825
+Scottish Borders,2019,67527
+Scottish Borders,2020,67297
+Scottish Borders,2021,67050
+Scottish Borders,2022,66722
+Scottish Borders,2023,66381
+Scottish Borders,2024,65985
+Scottish Borders,2025,65607
+Scottish Borders,2026,65176
+Scottish Borders,2027,64764
+Scottish Borders,2028,64251
+Scottish Borders,2029,63838
+Scottish Borders,2030,63368
+Scottish Borders,2031,62802
+Scottish Borders,2032,62284
+Scottish Borders,2033,61771
+Scottish Borders,2034,61306
+Scottish Borders,2035,60965
+Scottish Borders,2036,60612
+Scottish Borders,2037,60281
+Scottish Borders,2038,60122
+Scottish Borders,2039,60073
+Scottish Borders,2040,60078
+Scottish Borders,2041,60176
+Shetland Islands,2016,14564
+Shetland Islands,2017,14490
+Shetland Islands,2018,14459
+Shetland Islands,2019,14417
+Shetland Islands,2020,14317
+Shetland Islands,2021,14237
+Shetland Islands,2022,14202
+Shetland Islands,2023,14141
+Shetland Islands,2024,14049
+Shetland Islands,2025,13978
+Shetland Islands,2026,13880
+Shetland Islands,2027,13821
+Shetland Islands,2028,13697
+Shetland Islands,2029,13590
+Shetland Islands,2030,13475
+Shetland Islands,2031,13346
+Shetland Islands,2032,13264
+Shetland Islands,2033,13166
+Shetland Islands,2034,13096
+Shetland Islands,2035,13027
+Shetland Islands,2036,12950
+Shetland Islands,2037,12874
+Shetland Islands,2038,12803
+Shetland Islands,2039,12759
+Shetland Islands,2040,12715
+Shetland Islands,2041,12689
+South Ayrshire,2016,67453
+South Ayrshire,2017,67045
+South Ayrshire,2018,66522
+South Ayrshire,2019,65956
+South Ayrshire,2020,65481
+South Ayrshire,2021,65046
+South Ayrshire,2022,64465
+South Ayrshire,2023,63840
+South Ayrshire,2024,63259
+South Ayrshire,2025,62713
+South Ayrshire,2026,62038
+South Ayrshire,2027,61470
+South Ayrshire,2028,60781
+South Ayrshire,2029,60036
+South Ayrshire,2030,59284
+South Ayrshire,2031,58716
+South Ayrshire,2032,58107
+South Ayrshire,2033,57411
+South Ayrshire,2034,56861
+South Ayrshire,2035,56314
+South Ayrshire,2036,55802
+South Ayrshire,2037,55351
+South Ayrshire,2038,55029
+South Ayrshire,2039,54801
+South Ayrshire,2040,54591
+South Ayrshire,2041,54442
+South Lanarkshire,2016,202849
+South Lanarkshire,2017,202617
+South Lanarkshire,2018,202208
+South Lanarkshire,2019,201530
+South Lanarkshire,2020,201151
+South Lanarkshire,2021,200491
+South Lanarkshire,2022,199858
+South Lanarkshire,2023,199289
+South Lanarkshire,2024,198590
+South Lanarkshire,2025,197749
+South Lanarkshire,2026,196744
+South Lanarkshire,2027,196031
+South Lanarkshire,2028,195084
+South Lanarkshire,2029,193940
+South Lanarkshire,2030,192877
+South Lanarkshire,2031,192081
+South Lanarkshire,2032,191009
+South Lanarkshire,2033,189816
+South Lanarkshire,2034,188793
+South Lanarkshire,2035,187959
+South Lanarkshire,2036,187092
+South Lanarkshire,2037,186480
+South Lanarkshire,2038,186186
+South Lanarkshire,2039,186126
+South Lanarkshire,2040,186138
+South Lanarkshire,2041,186261
+Stirling,2016,60832
+Stirling,2017,61134
+Stirling,2018,61263
+Stirling,2019,61415
+Stirling,2020,61653
+Stirling,2021,61773
+Stirling,2022,61707
+Stirling,2023,61665
+Stirling,2024,61675
+Stirling,2025,61597
+Stirling,2026,61507
+Stirling,2027,61472
+Stirling,2028,61385
+Stirling,2029,61247
+Stirling,2030,61043
+Stirling,2031,60888
+Stirling,2032,60832
+Stirling,2033,60612
+Stirling,2034,60463
+Stirling,2035,60281
+Stirling,2036,60184
+Stirling,2037,60164
+Stirling,2038,60199
+Stirling,2039,60356
+Stirling,2040,60528
+Stirling,2041,60722
+West Dunbartonshire,2016,57905
+West Dunbartonshire,2017,57610
+West Dunbartonshire,2018,57294
+West Dunbartonshire,2019,56964
+West Dunbartonshire,2020,56665
+West Dunbartonshire,2021,56273
+West Dunbartonshire,2022,55892
+West Dunbartonshire,2023,55466
+West Dunbartonshire,2024,55105
+West Dunbartonshire,2025,54773
+West Dunbartonshire,2026,54339
+West Dunbartonshire,2027,53990
+West Dunbartonshire,2028,53541
+West Dunbartonshire,2029,53079
+West Dunbartonshire,2030,52556
+West Dunbartonshire,2031,52022
+West Dunbartonshire,2032,51578
+West Dunbartonshire,2033,51134
+West Dunbartonshire,2034,50701
+West Dunbartonshire,2035,50401
+West Dunbartonshire,2036,50086
+West Dunbartonshire,2037,49918
+West Dunbartonshire,2038,49757
+West Dunbartonshire,2039,49687
+West Dunbartonshire,2040,49636
+West Dunbartonshire,2041,49566
+West Lothian,2016,116181
+West Lothian,2017,116619
+West Lothian,2018,117025
+West Lothian,2019,117506
+West Lothian,2020,118156
+West Lothian,2021,118716
+West Lothian,2022,119123
+West Lothian,2023,119432
+West Lothian,2024,119748
+West Lothian,2025,120079
+West Lothian,2026,120068
+West Lothian,2027,120147
+West Lothian,2028,120008
+West Lothian,2029,119885
+West Lothian,2030,119607
+West Lothian,2031,119413
+West Lothian,2032,119116
+West Lothian,2033,118720
+West Lothian,2034,118429
+West Lothian,2035,118266
+West Lothian,2036,118076
+West Lothian,2037,117978
+West Lothian,2038,118044
+West Lothian,2039,118270
+West Lothian,2040,118569
+West Lothian,2041,118942

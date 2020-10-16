@@ -1,0 +1,124 @@
+/* Strategic Board Dashboard Style CSS
+
+Designed to be used with the "Paper" shinytheme */
+  
+  /* #########################################################################################*/
+  /* Changing the Nav bar options */ 
+  .navbar .nav > li.current-menu-item > a, 
+  .navbar .nav > li.current-menu-ancestor > a {
+    background-color: #DE3979;
+    color: white;
+    font-size: 16px;
+    
+  }
+  
+  .navbar-static-top {
+    background-color: #DE3979;
+    color: white;
+  }
+  
+ .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+   color: #F1A864 !important;
+   background-color: #DE3979;
+ }
+
+  /* Changing the Menu Colours - no interaction */
+  .navbar .nav > li > a {
+    color: white;
+    background-color: #DE3979;
+    font-size: 16px;
+  }
+  
+  /* Changing the Menu Colours - Hover */
+    .navbar .nav > li > a:hover {
+        background-color: #DE3979;
+        color: #F1A864;
+        font-size: 16px;
+  }
+  
+  /* Changing the menu colors - active */
+  .navbar .nav > li > a:active {
+    color: white;
+    background-color: #DE3979;
+    font-size: 16px;
+  }
+  
+   .navbar-nav li a:hover, .navbar-nav > .active > a {
+          background-color: #DE3979  !important;
+    font-size: 16px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    } 
+    
+  .navbar .nav > li.active > a {
+    color: white;
+    background-color: #DE3979;
+    font-size: 16px;
+  }
+  
+  /* Changing the Drop Down Menu Items - no interaction */
+  .dropdown-menu > li > a {
+               color: #DE3979;
+    font-size: 16px;
+  }
+  
+    /* Changing the Drop Down Menu Items - hover */
+  .dropdown-menu > li > a:hover {
+    color: white;
+    background-color: #F1A864;
+  }
+  
+    .dropdown-menu > li[class=active] > a {
+               color:  white !important;
+               background-color: #DE3979;
+    font-size: 16px;
+  }
+  
+  
+  /* Changing the Colours of the datatable */
+  table.dataTable tr.selected td, 
+  table.dataTable td.selected {
+    background-color: rgba(241, 107, 119, .7) !important;
+    color: white;
+  }
+  
+  table.dataTable {
+  color: black;
+  }
+  
+  /* Changing the Size of the headings in grouped drop dwon menus */
+.selectpicker .optgroup .optgroup-header{
+  font-size: 16px;
+  color:#3B67AD;
+  background:#FFFFFF;
+}
+
+/*Getting CSS to put image over picture */
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+  width: 50%;
+  font-weight: bold;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 85%;
+  transform: translate(-85%, -50%);
+}
+
+.tabbable > .nav > li[class=active] > a {
+  color: #DE3979 !important;
+}
+
+.tabbable > .nav > li > a:hover {
+  color: #F1A864 !important;
+}
+
+
+  
+
+

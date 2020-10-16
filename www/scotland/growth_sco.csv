@@ -1,0 +1,261 @@
+Sector,Year,Value
+"Agriculture, Forestry and Fishing",1999,4.4
+"Agriculture, Forestry and Fishing",2000,6.4
+"Agriculture, Forestry and Fishing",2001,-2.8
+"Agriculture, Forestry and Fishing",2002,-1.7
+"Agriculture, Forestry and Fishing",2003,3.7
+"Agriculture, Forestry and Fishing",2004,4.5
+"Agriculture, Forestry and Fishing",2005,-1.2
+"Agriculture, Forestry and Fishing",2006,3.8
+"Agriculture, Forestry and Fishing",2007,0.1
+"Agriculture, Forestry and Fishing",2008,2.1
+"Agriculture, Forestry and Fishing",2009,-3.8
+"Agriculture, Forestry and Fishing",2010,-1.4
+"Agriculture, Forestry and Fishing",2011,11
+"Agriculture, Forestry and Fishing",2012,-14.3
+"Agriculture, Forestry and Fishing",2013,9.1
+"Agriculture, Forestry and Fishing",2014,10.3
+"Agriculture, Forestry and Fishing",2015,-1.4
+"Agriculture, Forestry and Fishing",2016,0.8
+"Agriculture, Forestry and Fishing",2017,4.1
+"Agriculture, Forestry and Fishing",2018,-6.3
+Business Services and Finance,1999,3.7
+Business Services and Finance,2000,5.3
+Business Services and Finance,2001,4.1
+Business Services and Finance,2002,4
+Business Services and Finance,2003,8.1
+Business Services and Finance,2004,3
+Business Services and Finance,2005,4.2
+Business Services and Finance,2006,5.4
+Business Services and Finance,2007,1.8
+Business Services and Finance,2008,3.1
+Business Services and Finance,2009,-0.6
+Business Services and Finance,2010,-0.7
+Business Services and Finance,2011,0.4
+Business Services and Finance,2012,1.7
+Business Services and Finance,2013,2.8
+Business Services and Finance,2014,2
+Business Services and Finance,2015,-0.5
+Business Services and Finance,2016,2.2
+Business Services and Finance,2017,0.7
+Business Services and Finance,2018,1.5
+Construction,1999,-3.2
+Construction,2000,8.2
+Construction,2001,-8.4
+Construction,2002,5.1
+Construction,2003,2.5
+Construction,2004,3
+Construction,2005,-1.4
+Construction,2006,7
+Construction,2007,1
+Construction,2008,-1.7
+Construction,2009,-14.7
+Construction,2010,6.7
+Construction,2011,3.9
+Construction,2012,-8.4
+Construction,2013,6
+Construction,2014,1.1
+Construction,2015,5.4
+Construction,2016,1.4
+Construction,2017,3.7
+Construction,2018,0
+"Distribution, Hotels and Restaurants",1999,1
+"Distribution, Hotels and Restaurants",2000,-0.4
+"Distribution, Hotels and Restaurants",2001,6.4
+"Distribution, Hotels and Restaurants",2002,4.2
+"Distribution, Hotels and Restaurants",2003,2.1
+"Distribution, Hotels and Restaurants",2004,2.6
+"Distribution, Hotels and Restaurants",2005,0.6
+"Distribution, Hotels and Restaurants",2006,2.5
+"Distribution, Hotels and Restaurants",2007,2.1
+"Distribution, Hotels and Restaurants",2008,-1.8
+"Distribution, Hotels and Restaurants",2009,-3.9
+"Distribution, Hotels and Restaurants",2010,2.7
+"Distribution, Hotels and Restaurants",2011,0.4
+"Distribution, Hotels and Restaurants",2012,0.5
+"Distribution, Hotels and Restaurants",2013,1.6
+"Distribution, Hotels and Restaurants",2014,1.8
+"Distribution, Hotels and Restaurants",2015,1.3
+"Distribution, Hotels and Restaurants",2016,1.9
+"Distribution, Hotels and Restaurants",2017,0.8
+"Distribution, Hotels and Restaurants",2018,2.3
+"Electricity, Gas, Steam and Air",1999,1.1
+"Electricity, Gas, Steam and Air",2000,-2.2
+"Electricity, Gas, Steam and Air",2001,-0.3
+"Electricity, Gas, Steam and Air",2002,2.7
+"Electricity, Gas, Steam and Air",2003,-0.8
+"Electricity, Gas, Steam and Air",2004,1.8
+"Electricity, Gas, Steam and Air",2005,-1
+"Electricity, Gas, Steam and Air",2006,1.6
+"Electricity, Gas, Steam and Air",2007,-4.3
+"Electricity, Gas, Steam and Air",2008,4.8
+"Electricity, Gas, Steam and Air",2009,-4.2
+"Electricity, Gas, Steam and Air",2010,1.3
+"Electricity, Gas, Steam and Air",2011,-2.9
+"Electricity, Gas, Steam and Air",2012,-1.5
+"Electricity, Gas, Steam and Air",2013,4.6
+"Electricity, Gas, Steam and Air",2014,-7
+"Electricity, Gas, Steam and Air",2015,-0.1
+"Electricity, Gas, Steam and Air",2016,-3.8
+"Electricity, Gas, Steam and Air",2017,0.6
+"Electricity, Gas, Steam and Air",2018,3
+Government and Other Services,1999,1.4
+Government and Other Services,2000,1
+Government and Other Services,2001,2.3
+Government and Other Services,2002,2
+Government and Other Services,2003,2.8
+Government and Other Services,2004,1.5
+Government and Other Services,2005,0.6
+Government and Other Services,2006,1.4
+Government and Other Services,2007,-1
+Government and Other Services,2008,0.1
+Government and Other Services,2009,1.7
+Government and Other Services,2010,0.1
+Government and Other Services,2011,-0.7
+Government and Other Services,2012,0.6
+Government and Other Services,2013,-0.4
+Government and Other Services,2014,-0.1
+Government and Other Services,2015,-0.2
+Government and Other Services,2016,0.5
+Government and Other Services,2017,0.6
+Government and Other Services,2018,0.8
+Manufacturing,1999,-2.6
+Manufacturing,2000,2.9
+Manufacturing,2001,-4.8
+Manufacturing,2002,-3.6
+Manufacturing,2003,-2.2
+Manufacturing,2004,1.8
+Manufacturing,2005,4.7
+Manufacturing,2006,2.1
+Manufacturing,2007,-3.5
+Manufacturing,2008,1.9
+Manufacturing,2009,-9.7
+Manufacturing,2010,5.6
+Manufacturing,2011,2
+Manufacturing,2012,1.7
+Manufacturing,2013,2.5
+Manufacturing,2014,5.9
+Manufacturing,2015,0.1
+Manufacturing,2016,-1.2
+Manufacturing,2017,1.8
+Manufacturing,2018,3.4
+Mining & Quarrying,1999,-9.7
+Mining & Quarrying,2000,0.8
+Mining & Quarrying,2001,3.2
+Mining & Quarrying,2002,-10.8
+Mining & Quarrying,2003,-6.4
+Mining & Quarrying,2004,2.3
+Mining & Quarrying,2005,4.1
+Mining & Quarrying,2006,17.9
+Mining & Quarrying,2007,2.3
+Mining & Quarrying,2008,-1.1
+Mining & Quarrying,2009,4
+Mining & Quarrying,2010,-1.3
+Mining & Quarrying,2011,6.6
+Mining & Quarrying,2012,8.2
+Mining & Quarrying,2013,1.1
+Mining & Quarrying,2014,12.5
+Mining & Quarrying,2015,-7.6
+Mining & Quarrying,2016,-11.3
+Mining & Quarrying,2017,5
+Mining & Quarrying,2018,0.3
+Production,1999,-1.7
+Production,2000,2
+Production,2001,-2.5
+Production,2002,-3.1
+Production,2003,-2.2
+Production,2004,1.9
+Production,2005,3.9
+Production,2006,3.8
+Production,2007,-2.9
+Production,2008,0.7
+Production,2009,-5.8
+Production,2010,3.2
+Production,2011,2
+Production,2012,1.8
+Production,2013,2.2
+Production,2014,4.1
+Production,2015,-0.2
+Production,2016,-1.9
+Production,2017,1.9
+Production,2018,2.8
+Services,1999,2.5
+Services,2000,3.3
+Services,2001,4.6
+Services,2002,3.5
+Services,2003,4.7
+Services,2004,2.1
+Services,2005,1.7
+Services,2006,2.5
+Services,2007,1.1
+Services,2008,0.9
+Services,2009,-0.6
+Services,2010,0
+Services,2011,0
+Services,2012,0.9
+Services,2013,1.6
+Services,2014,1.6
+Services,2015,0.3
+Services,2016,1.4
+Services,2017,0.7
+Services,2018,1.4
+Total,1999,1.2
+Total,2000,3.4
+Total,2001,2.2
+Total,2002,2.3
+Total,2003,3.3
+Total,2004,2.1
+Total,2005,1.8
+Total,2006,3.1
+Total,2007,0.4
+Total,2008,0.7
+Total,2009,-2.4
+Total,2010,1
+Total,2011,0.7
+Total,2012,0.3
+Total,2013,2
+Total,2014,2.1
+Total,2015,0.5
+Total,2016,0.8
+Total,2017,1.1
+Total,2018,1.4
+"Transport, Storage and Communication",1999,4.9
+"Transport, Storage and Communication",2000,10.3
+"Transport, Storage and Communication",2001,9.6
+"Transport, Storage and Communication",2002,5.1
+"Transport, Storage and Communication",2003,4.6
+"Transport, Storage and Communication",2004,-0.1
+"Transport, Storage and Communication",2005,-1.1
+"Transport, Storage and Communication",2006,-3.4
+"Transport, Storage and Communication",2007,4.3
+"Transport, Storage and Communication",2008,0.1
+"Transport, Storage and Communication",2009,-2.2
+"Transport, Storage and Communication",2010,-2.1
+"Transport, Storage and Communication",2011,0.8
+"Transport, Storage and Communication",2012,-0.6
+"Transport, Storage and Communication",2013,3.5
+"Transport, Storage and Communication",2014,5
+"Transport, Storage and Communication",2015,3.1
+"Transport, Storage and Communication",2016,0.6
+"Transport, Storage and Communication",2017,1
+"Transport, Storage and Communication",2018,1.3
+Water Supply and Sewerage,1999,17.6
+Water Supply and Sewerage,2000,-0.8
+Water Supply and Sewerage,2001,10.9
+Water Supply and Sewerage,2002,7.5
+Water Supply and Sewerage,2003,3.1
+Water Supply and Sewerage,2004,1.9
+Water Supply and Sewerage,2005,3
+Water Supply and Sewerage,2006,0
+Water Supply and Sewerage,2007,-3.1
+Water Supply and Sewerage,2008,-10.7
+Water Supply and Sewerage,2009,3.2
+Water Supply and Sewerage,2010,-3
+Water Supply and Sewerage,2011,0.5
+Water Supply and Sewerage,2012,-4.3
+Water Supply and Sewerage,2013,-1.5
+Water Supply and Sewerage,2014,0.9
+Water Supply and Sewerage,2015,8.4
+Water Supply and Sewerage,2016,10
+Water Supply and Sewerage,2017,1.7
+Water Supply and Sewerage,2018,0.8

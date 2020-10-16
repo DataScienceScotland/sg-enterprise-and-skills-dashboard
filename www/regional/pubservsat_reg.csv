@@ -1,0 +1,232 @@
+NAME,Year,pubservsat
+Aberdeen City,2012,34
+Aberdeen City,2013,33
+Aberdeen City,2014,30
+Aberdeen City,2015,28
+Aberdeen City,2016,30
+Aberdeen City,2017,35
+Aberdeen City,2018,43
+Aberdeenshire,2012,34
+Aberdeenshire,2013,34
+Aberdeenshire,2014,40
+Aberdeenshire,2015,37
+Aberdeenshire,2016,38
+Aberdeenshire,2017,35
+Aberdeenshire,2018,44
+Angus,2012,48
+Angus,2013,50
+Angus,2014,41
+Angus,2015,44
+Angus,2016,37
+Angus,2017,32
+Angus,2018,42
+Argyll and Bute,2012,34
+Argyll and Bute,2013,43
+Argyll and Bute,2014,42
+Argyll and Bute,2015,48
+Argyll and Bute,2016,42
+Argyll and Bute,2017,37
+Argyll and Bute,2018,42
+City of Edinburgh,2012,44
+City of Edinburgh,2013,43
+City of Edinburgh,2014,49
+City of Edinburgh,2015,45
+City of Edinburgh,2016,42
+City of Edinburgh,2017,41
+City of Edinburgh,2018,46
+Clackmannanshire,2012,49
+Clackmannanshire,2013,54
+Clackmannanshire,2014,60
+Clackmannanshire,2015,69
+Clackmannanshire,2016,52
+Clackmannanshire,2017,42
+Clackmannanshire,2018,51
+Dumfries and Galloway,2012,35
+Dumfries and Galloway,2013,36
+Dumfries and Galloway,2014,39
+Dumfries and Galloway,2015,38
+Dumfries and Galloway,2016,33
+Dumfries and Galloway,2017,28
+Dumfries and Galloway,2018,33
+Dundee City,2012,40
+Dundee City,2013,48
+Dundee City,2014,50
+Dundee City,2015,51
+Dundee City,2016,54
+Dundee City,2017,47
+Dundee City,2018,48
+East Ayrshire,2012,40
+East Ayrshire,2013,33
+East Ayrshire,2014,36
+East Ayrshire,2015,39
+East Ayrshire,2016,30
+East Ayrshire,2017,30
+East Ayrshire,2018,36
+East Dunbartonshire,2012,55
+East Dunbartonshire,2013,52
+East Dunbartonshire,2014,57
+East Dunbartonshire,2015,38
+East Dunbartonshire,2016,57
+East Dunbartonshire,2017,48
+East Dunbartonshire,2018,47
+East Lothian,2012,70
+East Lothian,2013,64
+East Lothian,2014,61
+East Lothian,2015,63
+East Lothian,2016,58
+East Lothian,2017,51
+East Lothian,2018,61
+East Renfrewshire,2012,51
+East Renfrewshire,2013,59
+East Renfrewshire,2014,56
+East Renfrewshire,2015,54
+East Renfrewshire,2016,57
+East Renfrewshire,2017,56
+East Renfrewshire,2018,62
+Falkirk,2012,44
+Falkirk,2013,56
+Falkirk,2014,62
+Falkirk,2015,55
+Falkirk,2016,55
+Falkirk,2017,42
+Falkirk,2018,44
+Fife,2012,48
+Fife,2013,51
+Fife,2014,55
+Fife,2015,47
+Fife,2016,53
+Fife,2017,45
+Fife,2018,58
+Glasgow City,2012,43
+Glasgow City,2013,47
+Glasgow City,2014,40
+Glasgow City,2015,46
+Glasgow City,2016,44
+Glasgow City,2017,39
+Glasgow City,2018,49
+Highland,2012,39
+Highland,2013,40
+Highland,2014,33
+Highland,2015,40
+Highland,2016,39
+Highland,2017,39
+Highland,2018,42
+Inverclyde,2012,37
+Inverclyde,2013,38
+Inverclyde,2014,38
+Inverclyde,2015,41
+Inverclyde,2016,42
+Inverclyde,2017,34
+Inverclyde,2018,51
+Midlothian,2012,48
+Midlothian,2013,41
+Midlothian,2014,55
+Midlothian,2015,67
+Midlothian,2016,52
+Midlothian,2017,46
+Midlothian,2018,41
+Moray,2012,46
+Moray,2013,47
+Moray,2014,44
+Moray,2015,44
+Moray,2016,43
+Moray,2017,40
+Moray,2018,41
+Na h-Eileanan Siar,2012,51
+Na h-Eileanan Siar,2013,48
+Na h-Eileanan Siar,2014,52
+Na h-Eileanan Siar,2015,45
+Na h-Eileanan Siar,2016,48
+Na h-Eileanan Siar,2017,53
+Na h-Eileanan Siar,2018,47
+North Ayrshire,2012,45
+North Ayrshire,2013,53
+North Ayrshire,2014,52
+North Ayrshire,2015,51
+North Ayrshire,2016,47
+North Ayrshire,2017,37
+North Ayrshire,2018,48
+North Lanarkshire,2012,43
+North Lanarkshire,2013,39
+North Lanarkshire,2014,45
+North Lanarkshire,2015,41
+North Lanarkshire,2016,40
+North Lanarkshire,2017,40
+North Lanarkshire,2018,36
+Orkney Islands,2012,54
+Orkney Islands,2013,57
+Orkney Islands,2014,54
+Orkney Islands,2015,50
+Orkney Islands,2016,61
+Orkney Islands,2017,58
+Orkney Islands,2018,61
+Perth and Kinross,2012,56
+Perth and Kinross,2013,61
+Perth and Kinross,2014,59
+Perth and Kinross,2015,57
+Perth and Kinross,2016,50
+Perth and Kinross,2017,42
+Perth and Kinross,2018,49
+Renfrewshire,2012,42
+Renfrewshire,2013,41
+Renfrewshire,2014,42
+Renfrewshire,2015,41
+Renfrewshire,2016,43
+Renfrewshire,2017,41
+Renfrewshire,2018,44
+Scotland,2012,44
+Scotland,2013,45
+Scotland,2014,47
+Scotland,2015,46
+Scotland,2016,45
+Scotland,2017,41
+Scotland,2018,46
+Scottish Borders,2012,51
+Scottish Borders,2013,52
+Scottish Borders,2014,47
+Scottish Borders,2015,52
+Scottish Borders,2016,37
+Scottish Borders,2017,44
+Scottish Borders,2018,44
+Shetland Islands,2012,65
+Shetland Islands,2013,53
+Shetland Islands,2014,51
+Shetland Islands,2015,60
+Shetland Islands,2016,66
+Shetland Islands,2017,67
+Shetland Islands,2018,64
+South Ayrshire,2012,29
+South Ayrshire,2013,34
+South Ayrshire,2014,39
+South Ayrshire,2015,31
+South Ayrshire,2016,34
+South Ayrshire,2017,33
+South Ayrshire,2018,34
+South Lanarkshire,2012,43
+South Lanarkshire,2013,41
+South Lanarkshire,2014,47
+South Lanarkshire,2015,45
+South Lanarkshire,2016,42
+South Lanarkshire,2017,38
+South Lanarkshire,2018,46
+Stirling,2012,56
+Stirling,2013,64
+Stirling,2014,58
+Stirling,2015,49
+Stirling,2016,44
+Stirling,2017,54
+Stirling,2018,53
+West Dunbartonshire,2012,34
+West Dunbartonshire,2013,51
+West Dunbartonshire,2014,49
+West Dunbartonshire,2015,49
+West Dunbartonshire,2016,52
+West Dunbartonshire,2017,39
+West Dunbartonshire,2018,35
+West Lothian,2012,55
+West Lothian,2013,55
+West Lothian,2014,69
+West Lothian,2015,62
+West Lothian,2016,69
+West Lothian,2017,57
+West Lothian,2018,53

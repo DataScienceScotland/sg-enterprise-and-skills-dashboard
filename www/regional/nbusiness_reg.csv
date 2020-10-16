@@ -1,0 +1,595 @@
+NAME,Year,Businesses
+Aberdeen City,2000,9600
+Aberdeen City,2001,9765
+Aberdeen City,2002,9065
+Aberdeen City,2003,8880
+Aberdeen City,2004,8880
+Aberdeen City,2005,8805
+Aberdeen City,2006,8825
+Aberdeen City,2007,8985
+Aberdeen City,2008,9335
+Aberdeen City,2009,9485
+Aberdeen City,2010,9555
+Aberdeen City,2011,9805
+Aberdeen City,2012,10340
+Aberdeen City,2013,10665
+Aberdeen City,2014,11300
+Aberdeen City,2015,11520
+Aberdeen City,2016,11405
+Aberdeen City,2017,11125
+Aberdeenshire,2000,12065
+Aberdeenshire,2001,11965
+Aberdeenshire,2002,11820
+Aberdeenshire,2003,11840
+Aberdeenshire,2004,12000
+Aberdeenshire,2005,11875
+Aberdeenshire,2006,12130
+Aberdeenshire,2007,12560
+Aberdeenshire,2008,13110
+Aberdeenshire,2009,13315
+Aberdeenshire,2010,13565
+Aberdeenshire,2011,13800
+Aberdeenshire,2012,14275
+Aberdeenshire,2013,14560
+Aberdeenshire,2014,15055
+Aberdeenshire,2015,15290
+Aberdeenshire,2016,15305
+Aberdeenshire,2017,15140
+Angus,2000,4100
+Angus,2001,4025
+Angus,2002,4010
+Angus,2003,3910
+Angus,2004,3965
+Angus,2005,3880
+Angus,2006,3970
+Angus,2007,4080
+Angus,2008,4125
+Angus,2009,4125
+Angus,2010,4160
+Angus,2011,4130
+Angus,2012,4240
+Angus,2013,4235
+Angus,2014,4350
+Angus,2015,4430
+Angus,2016,4470
+Angus,2017,4485
+Argyll and Bute,2000,4735
+Argyll and Bute,2001,4710
+Argyll and Bute,2002,4700
+Argyll and Bute,2003,4620
+Argyll and Bute,2004,4675
+Argyll and Bute,2005,4665
+Argyll and Bute,2006,4605
+Argyll and Bute,2007,4655
+Argyll and Bute,2008,4640
+Argyll and Bute,2009,4610
+Argyll and Bute,2010,4515
+Argyll and Bute,2011,4460
+Argyll and Bute,2012,4570
+Argyll and Bute,2013,4490
+Argyll and Bute,2014,4535
+Argyll and Bute,2015,4525
+Argyll and Bute,2016,4515
+Argyll and Bute,2017,4550
+City of Edinburgh,2000,18410
+City of Edinburgh,2001,18615
+City of Edinburgh,2002,18580
+City of Edinburgh,2003,18525
+City of Edinburgh,2004,18785
+City of Edinburgh,2005,18690
+City of Edinburgh,2006,18810
+City of Edinburgh,2007,18775
+City of Edinburgh,2008,19040
+City of Edinburgh,2009,18800
+City of Edinburgh,2010,18880
+City of Edinburgh,2011,18850
+City of Edinburgh,2012,19370
+City of Edinburgh,2013,19605
+City of Edinburgh,2014,20535
+City of Edinburgh,2015,21160
+City of Edinburgh,2016,21955
+City of Edinburgh,2017,22495
+Clackmannanshire,2000,1170
+Clackmannanshire,2001,1190
+Clackmannanshire,2002,1180
+Clackmannanshire,2003,1200
+Clackmannanshire,2004,1225
+Clackmannanshire,2005,1220
+Clackmannanshire,2006,1205
+Clackmannanshire,2007,1245
+Clackmannanshire,2008,1285
+Clackmannanshire,2009,1285
+Clackmannanshire,2010,1270
+Clackmannanshire,2011,1240
+Clackmannanshire,2012,1265
+Clackmannanshire,2013,1225
+Clackmannanshire,2014,1290
+Clackmannanshire,2015,1330
+Clackmannanshire,2016,1355
+Clackmannanshire,2017,1350
+Dumfries and Galloway,2000,7725
+Dumfries and Galloway,2001,7700
+Dumfries and Galloway,2002,7725
+Dumfries and Galloway,2003,7595
+Dumfries and Galloway,2004,7685
+Dumfries and Galloway,2005,7470
+Dumfries and Galloway,2006,7475
+Dumfries and Galloway,2007,7625
+Dumfries and Galloway,2008,7640
+Dumfries and Galloway,2009,7565
+Dumfries and Galloway,2010,7475
+Dumfries and Galloway,2011,7340
+Dumfries and Galloway,2012,7375
+Dumfries and Galloway,2013,7260
+Dumfries and Galloway,2014,7405
+Dumfries and Galloway,2015,7400
+Dumfries and Galloway,2016,7315
+Dumfries and Galloway,2017,7280
+Dundee City,2000,3820
+Dundee City,2001,3930
+Dundee City,2002,3925
+Dundee City,2003,3875
+Dundee City,2004,3905
+Dundee City,2005,3865
+Dundee City,2006,3905
+Dundee City,2007,3990
+Dundee City,2008,3985
+Dundee City,2009,3975
+Dundee City,2010,3960
+Dundee City,2011,3885
+Dundee City,2012,3990
+Dundee City,2013,4015
+Dundee City,2014,4160
+Dundee City,2015,4290
+Dundee City,2016,4290
+Dundee City,2017,4390
+East Ayrshire,2000,3575
+East Ayrshire,2001,3540
+East Ayrshire,2002,3585
+East Ayrshire,2003,3550
+East Ayrshire,2004,3520
+East Ayrshire,2005,3440
+East Ayrshire,2006,3400
+East Ayrshire,2007,3445
+East Ayrshire,2008,3470
+East Ayrshire,2009,3425
+East Ayrshire,2010,3365
+East Ayrshire,2011,3325
+East Ayrshire,2012,3410
+East Ayrshire,2013,3380
+East Ayrshire,2014,3465
+East Ayrshire,2015,3570
+East Ayrshire,2016,3620
+East Ayrshire,2017,3735
+East Dunbartonshire,2000,2695
+East Dunbartonshire,2001,2715
+East Dunbartonshire,2002,2710
+East Dunbartonshire,2003,2675
+East Dunbartonshire,2004,2725
+East Dunbartonshire,2005,2690
+East Dunbartonshire,2006,2700
+East Dunbartonshire,2007,2765
+East Dunbartonshire,2008,2845
+East Dunbartonshire,2009,2885
+East Dunbartonshire,2010,2920
+East Dunbartonshire,2011,2905
+East Dunbartonshire,2012,3015
+East Dunbartonshire,2013,2975
+East Dunbartonshire,2014,3135
+East Dunbartonshire,2015,3225
+East Dunbartonshire,2016,3365
+East Dunbartonshire,2017,3405
+East Lothian,2000,2775
+East Lothian,2001,2825
+East Lothian,2002,2885
+East Lothian,2003,2860
+East Lothian,2004,2910
+East Lothian,2005,2880
+East Lothian,2006,2890
+East Lothian,2007,2945
+East Lothian,2008,2935
+East Lothian,2009,2995
+East Lothian,2010,3020
+East Lothian,2011,3010
+East Lothian,2012,3120
+East Lothian,2013,3205
+East Lothian,2014,3290
+East Lothian,2015,3335
+East Lothian,2016,3455
+East Lothian,2017,3510
+East Renfrewshire,2000,2255
+East Renfrewshire,2001,2255
+East Renfrewshire,2002,2245
+East Renfrewshire,2003,2220
+East Renfrewshire,2004,2200
+East Renfrewshire,2005,2175
+East Renfrewshire,2006,2195
+East Renfrewshire,2007,2270
+East Renfrewshire,2008,2350
+East Renfrewshire,2009,2380
+East Renfrewshire,2010,2430
+East Renfrewshire,2011,2420
+East Renfrewshire,2012,2555
+East Renfrewshire,2013,2575
+East Renfrewshire,2014,2705
+East Renfrewshire,2015,2780
+East Renfrewshire,2016,2865
+East Renfrewshire,2017,2975
+Falkirk,2000,3785
+Falkirk,2001,3825
+Falkirk,2002,3785
+Falkirk,2003,3785
+Falkirk,2004,3875
+Falkirk,2005,3810
+Falkirk,2006,3855
+Falkirk,2007,3905
+Falkirk,2008,3995
+Falkirk,2009,4005
+Falkirk,2010,4025
+Falkirk,2011,4015
+Falkirk,2012,4130
+Falkirk,2013,4185
+Falkirk,2014,4355
+Falkirk,2015,4435
+Falkirk,2016,4540
+Falkirk,2017,4575
+Fife,2000,9830
+Fife,2001,9800
+Fife,2002,9830
+Fife,2003,9860
+Fife,2004,9890
+Fife,2005,9725
+Fife,2006,9725
+Fife,2007,9905
+Fife,2008,10170
+Fife,2009,10135
+Fife,2010,10185
+Fife,2011,10015
+Fife,2012,10305
+Fife,2013,10190
+Fife,2014,10560
+Fife,2015,10815
+Fife,2016,11020
+Fife,2017,11390
+Glasgow City,2000,19315
+Glasgow City,2001,19460
+Glasgow City,2002,19370
+Glasgow City,2003,19200
+Glasgow City,2004,19305
+Glasgow City,2005,19105
+Glasgow City,2006,19390
+Glasgow City,2007,19635
+Glasgow City,2008,19785
+Glasgow City,2009,19890
+Glasgow City,2010,19960
+Glasgow City,2011,19785
+Glasgow City,2012,20320
+Glasgow City,2013,20290
+Glasgow City,2014,21125
+Glasgow City,2015,21635
+Glasgow City,2016,22265
+Glasgow City,2017,23120
+Highland,2000,11540
+Highland,2001,11595
+Highland,2002,11675
+Highland,2003,11500
+Highland,2004,11765
+Highland,2005,11640
+Highland,2006,11630
+Highland,2007,12025
+Highland,2008,12030
+Highland,2009,12100
+Highland,2010,12145
+Highland,2011,11990
+Highland,2012,12290
+Highland,2013,12300
+Highland,2014,12565
+Highland,2015,12670
+Highland,2016,12770
+Highland,2017,12830
+Inverclyde,2000,1835
+Inverclyde,2001,1810
+Inverclyde,2002,1815
+Inverclyde,2003,1805
+Inverclyde,2004,1800
+Inverclyde,2005,1785
+Inverclyde,2006,1795
+Inverclyde,2007,1865
+Inverclyde,2008,1925
+Inverclyde,2009,1895
+Inverclyde,2010,1865
+Inverclyde,2011,1840
+Inverclyde,2012,1915
+Inverclyde,2013,1895
+Inverclyde,2014,1950
+Inverclyde,2015,1985
+Inverclyde,2016,2050
+Inverclyde,2017,2075
+Midlothian,2000,2075
+Midlothian,2001,2105
+Midlothian,2002,2135
+Midlothian,2003,2155
+Midlothian,2004,2185
+Midlothian,2005,2165
+Midlothian,2006,2255
+Midlothian,2007,2320
+Midlothian,2008,2330
+Midlothian,2009,2310
+Midlothian,2010,2320
+Midlothian,2011,2310
+Midlothian,2012,2365
+Midlothian,2013,2380
+Midlothian,2014,2465
+Midlothian,2015,2565
+Midlothian,2016,2640
+Midlothian,2017,2745
+Moray,2000,3540
+Moray,2001,3560
+Moray,2002,3560
+Moray,2003,3555
+Moray,2004,3530
+Moray,2005,3460
+Moray,2006,3525
+Moray,2007,3605
+Moray,2008,3605
+Moray,2009,3615
+Moray,2010,3630
+Moray,2011,3585
+Moray,2012,3640
+Moray,2013,3640
+Moray,2014,3675
+Moray,2015,3730
+Moray,2016,3800
+Moray,2017,3820
+Na h-Eileanan Siar,2000,1410
+Na h-Eileanan Siar,2001,1365
+Na h-Eileanan Siar,2002,1325
+Na h-Eileanan Siar,2003,1270
+Na h-Eileanan Siar,2004,1285
+Na h-Eileanan Siar,2005,1285
+Na h-Eileanan Siar,2006,1285
+Na h-Eileanan Siar,2007,1290
+Na h-Eileanan Siar,2008,1270
+Na h-Eileanan Siar,2009,1285
+Na h-Eileanan Siar,2010,1260
+Na h-Eileanan Siar,2011,1210
+Na h-Eileanan Siar,2012,1270
+Na h-Eileanan Siar,2013,1270
+Na h-Eileanan Siar,2014,1305
+Na h-Eileanan Siar,2015,1365
+Na h-Eileanan Siar,2016,1350
+Na h-Eileanan Siar,2017,1345
+North Ayrshire,2000,3695
+North Ayrshire,2001,3650
+North Ayrshire,2002,3635
+North Ayrshire,2003,3595
+North Ayrshire,2004,3600
+North Ayrshire,2005,3550
+North Ayrshire,2006,3570
+North Ayrshire,2007,3630
+North Ayrshire,2008,3610
+North Ayrshire,2009,3620
+North Ayrshire,2010,3560
+North Ayrshire,2011,3460
+North Ayrshire,2012,3560
+North Ayrshire,2013,3520
+North Ayrshire,2014,3690
+North Ayrshire,2015,3780
+North Ayrshire,2016,3805
+North Ayrshire,2017,3935
+North Lanarkshire,2000,7145
+North Lanarkshire,2001,7220
+North Lanarkshire,2002,7300
+North Lanarkshire,2003,7185
+North Lanarkshire,2004,7220
+North Lanarkshire,2005,7155
+North Lanarkshire,2006,7270
+North Lanarkshire,2007,7530
+North Lanarkshire,2008,7710
+North Lanarkshire,2009,7680
+North Lanarkshire,2010,7660
+North Lanarkshire,2011,7615
+North Lanarkshire,2012,7895
+North Lanarkshire,2013,7925
+North Lanarkshire,2014,8345
+North Lanarkshire,2015,8580
+North Lanarkshire,2016,8870
+North Lanarkshire,2017,9185
+Orkney Islands,2000,1745
+Orkney Islands,2001,1740
+Orkney Islands,2002,1735
+Orkney Islands,2003,1655
+Orkney Islands,2004,1660
+Orkney Islands,2005,1635
+Orkney Islands,2006,1635
+Orkney Islands,2007,1630
+Orkney Islands,2008,1625
+Orkney Islands,2009,1590
+Orkney Islands,2010,1600
+Orkney Islands,2011,1575
+Orkney Islands,2012,1595
+Orkney Islands,2013,1570
+Orkney Islands,2014,1630
+Orkney Islands,2015,1630
+Orkney Islands,2016,1605
+Orkney Islands,2017,1600
+Perth and Kinross,2000,6840
+Perth and Kinross,2001,6830
+Perth and Kinross,2002,6800
+Perth and Kinross,2003,6755
+Perth and Kinross,2004,6800
+Perth and Kinross,2005,6710
+Perth and Kinross,2006,6710
+Perth and Kinross,2007,6765
+Perth and Kinross,2008,6800
+Perth and Kinross,2009,6770
+Perth and Kinross,2010,6745
+Perth and Kinross,2011,6620
+Perth and Kinross,2012,6740
+Perth and Kinross,2013,6700
+Perth and Kinross,2014,6875
+Perth and Kinross,2015,6945
+Perth and Kinross,2016,6960
+Perth and Kinross,2017,7060
+Renfrewshire,2000,4720
+Renfrewshire,2001,4710
+Renfrewshire,2002,4790
+Renfrewshire,2003,4780
+Renfrewshire,2004,4800
+Renfrewshire,2005,4760
+Renfrewshire,2006,4800
+Renfrewshire,2007,4875
+Renfrewshire,2008,4985
+Renfrewshire,2009,5005
+Renfrewshire,2010,5070
+Renfrewshire,2011,4990
+Renfrewshire,2012,5080
+Renfrewshire,2013,5050
+Renfrewshire,2014,5240
+Renfrewshire,2015,5335
+Renfrewshire,2016,5490
+Renfrewshire,2017,5605
+Scotland,2000,180925
+Scotland,2001,181370
+Scotland,2002,180840
+Scotland,2003,179375
+Scotland,2004,181095
+Scotland,2005,178855
+Scotland,2006,180310
+Scotland,2007,183905
+Scotland,2008,186210
+Scotland,2009,186295
+Scotland,2010,186650
+Scotland,2011,185350
+Scotland,2012,190510
+Scotland,2013,190915
+Scotland,2014,197930
+Scotland,2015,201760
+Scotland,2016,205180
+Scotland,2017,208265
+Scottish Borders,2000,5840
+Scottish Borders,2001,5715
+Scottish Borders,2002,5765
+Scottish Borders,2003,5725
+Scottish Borders,2004,5730
+Scottish Borders,2005,5565
+Scottish Borders,2006,5550
+Scottish Borders,2007,5705
+Scottish Borders,2008,5725
+Scottish Borders,2009,5725
+Scottish Borders,2010,5660
+Scottish Borders,2011,5550
+Scottish Borders,2012,5640
+Scottish Borders,2013,5560
+Scottish Borders,2014,5705
+Scottish Borders,2015,5705
+Scottish Borders,2016,5705
+Scottish Borders,2017,5705
+Shetland Islands,2000,1635
+Shetland Islands,2001,1630
+Shetland Islands,2002,1610
+Shetland Islands,2003,1545
+Shetland Islands,2004,1545
+Shetland Islands,2005,1545
+Shetland Islands,2006,1500
+Shetland Islands,2007,1490
+Shetland Islands,2008,1460
+Shetland Islands,2009,1425
+Shetland Islands,2010,1440
+Shetland Islands,2011,1455
+Shetland Islands,2012,1495
+Shetland Islands,2013,1525
+Shetland Islands,2014,1560
+Shetland Islands,2015,1600
+Shetland Islands,2016,1645
+Shetland Islands,2017,1680
+South Ayrshire,2000,4155
+South Ayrshire,2001,4095
+South Ayrshire,2002,4090
+South Ayrshire,2003,4085
+South Ayrshire,2004,4165
+South Ayrshire,2005,4085
+South Ayrshire,2006,4050
+South Ayrshire,2007,4125
+South Ayrshire,2008,4110
+South Ayrshire,2009,4090
+South Ayrshire,2010,4050
+South Ayrshire,2011,4000
+South Ayrshire,2012,4055
+South Ayrshire,2013,4000
+South Ayrshire,2014,4075
+South Ayrshire,2015,4125
+South Ayrshire,2016,4210
+South Ayrshire,2017,4280
+South Lanarkshire,2000,8550
+South Lanarkshire,2001,8575
+South Lanarkshire,2002,8720
+South Lanarkshire,2003,8615
+South Lanarkshire,2004,8725
+South Lanarkshire,2005,8590
+South Lanarkshire,2006,8755
+South Lanarkshire,2007,8995
+South Lanarkshire,2008,9195
+South Lanarkshire,2009,9200
+South Lanarkshire,2010,9245
+South Lanarkshire,2011,9115
+South Lanarkshire,2012,9360
+South Lanarkshire,2013,9405
+South Lanarkshire,2014,9795
+South Lanarkshire,2015,10010
+South Lanarkshire,2016,10220
+South Lanarkshire,2017,10430
+Stirling,2000,3945
+Stirling,2001,3980
+Stirling,2002,4030
+Stirling,2003,4075
+Stirling,2004,4100
+Stirling,2005,4045
+Stirling,2006,4105
+Stirling,2007,4205
+Stirling,2008,4250
+Stirling,2009,4250
+Stirling,2010,4225
+Stirling,2011,4230
+Stirling,2012,4330
+Stirling,2013,4280
+Stirling,2014,4400
+Stirling,2015,4485
+Stirling,2016,4545
+Stirling,2017,4515
+West Dunbartonshire,2000,2035
+West Dunbartonshire,2001,2010
+West Dunbartonshire,2002,1970
+West Dunbartonshire,2003,1955
+West Dunbartonshire,2004,1965
+West Dunbartonshire,2005,1940
+West Dunbartonshire,2006,1935
+West Dunbartonshire,2007,1940
+West Dunbartonshire,2008,1990
+West Dunbartonshire,2009,1990
+West Dunbartonshire,2010,2005
+West Dunbartonshire,2011,1990
+West Dunbartonshire,2012,2050
+West Dunbartonshire,2013,2045
+West Dunbartonshire,2014,2135
+West Dunbartonshire,2015,2160
+West Dunbartonshire,2016,2250
+West Dunbartonshire,2017,2295
+West Lothian,2000,4335
+West Lothian,2001,4410
+West Lothian,2002,4410
+West Lothian,2003,4420
+West Lothian,2004,4520
+West Lothian,2005,4470
+West Lothian,2006,4595
+West Lothian,2007,4720
+West Lothian,2008,4890
+West Lothian,2009,4865
+West Lothian,2010,4885
+West Lothian,2011,4835
+West Lothian,2012,4950
+West Lothian,2013,5005
+West Lothian,2014,5250
+West Lothian,2015,5360
+West Lothian,2016,5520
+West Lothian,2017,5625

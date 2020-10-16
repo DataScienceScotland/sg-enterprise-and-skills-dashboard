@@ -1,0 +1,15 @@
+individual,group,Scotland
+Growth,Productivity,3
+Productivity,Productivity,2
+Exporting (International),Productivity,1
+Exporting (Int & RUK),Productivity,7
+RD,Productivity,1
+Dependency Ratio,Population,3
+Economic Activity,Participation,1
+Employment,Participation,2
+Unemployment,Participation,5
+Gender Pay Gap,Participation,2
+Skills (lower),Participation,1
+Skills (higher),Participation,8
+Life Expectancy,People,1
+Greenhouse Gas Emissions,Sustainability,5

@@ -1,0 +1,801 @@
+NAME,Year,hlifeexp_male
+Aberdeen City,1993,72.6
+Aberdeen City,1994,73.2
+Aberdeen City,1995,73.2
+Aberdeen City,1996,72.9
+Aberdeen City,1997,72.8
+Aberdeen City,1998,73.2
+Aberdeen City,1999,73.6
+Aberdeen City,2000,73.8
+Aberdeen City,2001,73.7
+Aberdeen City,2002,73.8
+Aberdeen City,2003,74.1
+Aberdeen City,2004,74.4
+Aberdeen City,2005,74.9
+Aberdeen City,2006,74.9
+Aberdeen City,2007,75.1
+Aberdeen City,2008,75.3
+Aberdeen City,2009,75.6
+Aberdeen City,2010,76.1
+Aberdeen City,2011,76.6
+Aberdeen City,2012,77.0
+Aberdeen City,2013,77.0
+Aberdeen City,2014,76.7
+Aberdeen City,2015,76.6
+Aberdeen City,2016,76.4
+Aberdeen City,2017,76.9
+Aberdeenshire,1993,73.8
+Aberdeenshire,1994,73.9
+Aberdeenshire,1995,74.3
+Aberdeenshire,1996,74.9
+Aberdeenshire,1997,75.1
+Aberdeenshire,1998,75.1
+Aberdeenshire,1999,75.0
+Aberdeenshire,2000,75.2
+Aberdeenshire,2001,75.5
+Aberdeenshire,2002,76.0
+Aberdeenshire,2003,76.1
+Aberdeenshire,2004,76.3
+Aberdeenshire,2005,76.7
+Aberdeenshire,2006,77.0
+Aberdeenshire,2007,77.5
+Aberdeenshire,2008,77.5
+Aberdeenshire,2009,77.9
+Aberdeenshire,2010,78.0
+Aberdeenshire,2011,78.4
+Aberdeenshire,2012,78.8
+Aberdeenshire,2013,79.1
+Aberdeenshire,2014,79.3
+Aberdeenshire,2015,79.2
+Aberdeenshire,2016,79.2
+Aberdeenshire,2017,79.1
+Angus,1993,73.4
+Angus,1994,73.3
+Angus,1995,73.5
+Angus,1996,73.5
+Angus,1997,74.1
+Angus,1998,74.6
+Angus,1999,75.0
+Angus,2000,74.7
+Angus,2001,74.7
+Angus,2002,74.7
+Angus,2003,75.3
+Angus,2004,75.8
+Angus,2005,75.8
+Angus,2006,76.3
+Angus,2007,76.1
+Angus,2008,76.9
+Angus,2009,77.0
+Angus,2010,77.6
+Angus,2011,78.1
+Angus,2012,78.2
+Angus,2013,78.4
+Angus,2014,78.6
+Angus,2015,78.6
+Angus,2016,78.5
+Angus,2017,78.2
+Argyll and Bute,1993,71.9
+Argyll and Bute,1994,71.4
+Argyll and Bute,1995,71.6
+Argyll and Bute,1996,72.1
+Argyll and Bute,1997,72.9
+Argyll and Bute,1998,72.9
+Argyll and Bute,1999,72.8
+Argyll and Bute,2000,73.1
+Argyll and Bute,2001,73.5
+Argyll and Bute,2002,74.4
+Argyll and Bute,2003,74.8
+Argyll and Bute,2004,74.7
+Argyll and Bute,2005,75.0
+Argyll and Bute,2006,75.6
+Argyll and Bute,2007,76.0
+Argyll and Bute,2008,76.1
+Argyll and Bute,2009,76.3
+Argyll and Bute,2010,76.7
+Argyll and Bute,2011,77.2
+Argyll and Bute,2012,77.2
+Argyll and Bute,2013,78.1
+Argyll and Bute,2014,78.2
+Argyll and Bute,2015,78.2
+Argyll and Bute,2016,77.4
+Argyll and Bute,2017,77.4
+City of Edinburgh,1993,71.7
+City of Edinburgh,1994,72.1
+City of Edinburgh,1995,72.4
+City of Edinburgh,1996,72.6
+City of Edinburgh,1997,72.8
+City of Edinburgh,1998,73.2
+City of Edinburgh,1999,73.6
+City of Edinburgh,2000,73.9
+City of Edinburgh,2001,73.9
+City of Edinburgh,2002,74.4
+City of Edinburgh,2003,74.8
+City of Edinburgh,2004,75.2
+City of Edinburgh,2005,75.3
+City of Edinburgh,2006,75.6
+City of Edinburgh,2007,75.9
+City of Edinburgh,2008,76.1
+City of Edinburgh,2009,76.5
+City of Edinburgh,2010,76.8
+City of Edinburgh,2011,77.2
+City of Edinburgh,2012,77.3
+City of Edinburgh,2013,77.5
+City of Edinburgh,2014,77.8
+City of Edinburgh,2015,78.0
+City of Edinburgh,2016,78.0
+City of Edinburgh,2017,78.0
+Clackmannanshire,1993,71.5
+Clackmannanshire,1994,72.0
+Clackmannanshire,1995,72.9
+Clackmannanshire,1996,73.0
+Clackmannanshire,1997,72.7
+Clackmannanshire,1998,72.7
+Clackmannanshire,1999,72.8
+Clackmannanshire,2000,73.2
+Clackmannanshire,2001,73.3
+Clackmannanshire,2002,73.4
+Clackmannanshire,2003,73.6
+Clackmannanshire,2004,73.2
+Clackmannanshire,2005,73.2
+Clackmannanshire,2006,73.2
+Clackmannanshire,2007,74.1
+Clackmannanshire,2008,74.5
+Clackmannanshire,2009,75.0
+Clackmannanshire,2010,75.6
+Clackmannanshire,2011,76.5
+Clackmannanshire,2012,77.0
+Clackmannanshire,2013,77.0
+Clackmannanshire,2014,77.1
+Clackmannanshire,2015,76.9
+Clackmannanshire,2016,76.7
+Clackmannanshire,2017,76.7
+Dumfries and Galloway,1993,72.5
+Dumfries and Galloway,1994,73.0
+Dumfries and Galloway,1995,73.3
+Dumfries and Galloway,1996,73.6
+Dumfries and Galloway,1997,73.8
+Dumfries and Galloway,1998,74.0
+Dumfries and Galloway,1999,74.3
+Dumfries and Galloway,2000,74.8
+Dumfries and Galloway,2001,74.9
+Dumfries and Galloway,2002,75.1
+Dumfries and Galloway,2003,74.8
+Dumfries and Galloway,2004,75.4
+Dumfries and Galloway,2005,75.7
+Dumfries and Galloway,2006,76.1
+Dumfries and Galloway,2007,76.2
+Dumfries and Galloway,2008,76.4
+Dumfries and Galloway,2009,76.8
+Dumfries and Galloway,2010,76.8
+Dumfries and Galloway,2011,77.3
+Dumfries and Galloway,2012,77.5
+Dumfries and Galloway,2013,78.0
+Dumfries and Galloway,2014,78.0
+Dumfries and Galloway,2015,78.1
+Dumfries and Galloway,2016,77.8
+Dumfries and Galloway,2017,77.9
+Dundee City,1993,71.1
+Dundee City,1994,70.9
+Dundee City,1995,71.1
+Dundee City,1996,71.3
+Dundee City,1997,71.5
+Dundee City,1998,71.7
+Dundee City,1999,71.7
+Dundee City,2000,71.8
+Dundee City,2001,71.7
+Dundee City,2002,72.0
+Dundee City,2003,71.9
+Dundee City,2004,72.4
+Dundee City,2005,72.9
+Dundee City,2006,73.5
+Dundee City,2007,73.6
+Dundee City,2008,73.5
+Dundee City,2009,73.5
+Dundee City,2010,73.6
+Dundee City,2011,73.9
+Dundee City,2012,74.3
+Dundee City,2013,75.1
+Dundee City,2014,75.3
+Dundee City,2015,75.1
+Dundee City,2016,74.5
+Dundee City,2017,73.9
+East Ayrshire,1993,71.5
+East Ayrshire,1994,71.3
+East Ayrshire,1995,71.4
+East Ayrshire,1996,72.1
+East Ayrshire,1997,72.4
+East Ayrshire,1998,73.0
+East Ayrshire,1999,72.6
+East Ayrshire,2000,73.0
+East Ayrshire,2001,72.5
+East Ayrshire,2002,72.8
+East Ayrshire,2003,72.5
+East Ayrshire,2004,73.5
+East Ayrshire,2005,73.7
+East Ayrshire,2006,74.5
+East Ayrshire,2007,74.0
+East Ayrshire,2008,74.6
+East Ayrshire,2009,74.6
+East Ayrshire,2010,75.4
+East Ayrshire,2011,75.7
+East Ayrshire,2012,76.1
+East Ayrshire,2013,75.7
+East Ayrshire,2014,75.8
+East Ayrshire,2015,76.1
+East Ayrshire,2016,76.5
+East Ayrshire,2017,76.4
+East Dunbartonshire,1993,74.0
+East Dunbartonshire,1994,74.3
+East Dunbartonshire,1995,74.9
+East Dunbartonshire,1996,74.8
+East Dunbartonshire,1997,75.0
+East Dunbartonshire,1998,74.8
+East Dunbartonshire,1999,75.7
+East Dunbartonshire,2000,75.8
+East Dunbartonshire,2001,76.5
+East Dunbartonshire,2002,76.5
+East Dunbartonshire,2003,77.1
+East Dunbartonshire,2004,76.9
+East Dunbartonshire,2005,77.6
+East Dunbartonshire,2006,77.9
+East Dunbartonshire,2007,77.9
+East Dunbartonshire,2008,77.9
+East Dunbartonshire,2009,78.3
+East Dunbartonshire,2010,79.3
+East Dunbartonshire,2011,79.6
+East Dunbartonshire,2012,79.8
+East Dunbartonshire,2013,80.3
+East Dunbartonshire,2014,80.5
+East Dunbartonshire,2015,80.5
+East Dunbartonshire,2016,80.1
+East Dunbartonshire,2017,80.1
+East Lothian,1993,73.2
+East Lothian,1994,73.4
+East Lothian,1995,73.4
+East Lothian,1996,73.7
+East Lothian,1997,73.9
+East Lothian,1998,73.9
+East Lothian,1999,74.3
+East Lothian,2000,74.6
+East Lothian,2001,75.6
+East Lothian,2002,75.7
+East Lothian,2003,75.7
+East Lothian,2004,75.6
+East Lothian,2005,76.2
+East Lothian,2006,76.3
+East Lothian,2007,76.2
+East Lothian,2008,76.6
+East Lothian,2009,76.8
+East Lothian,2010,77.3
+East Lothian,2011,77.5
+East Lothian,2012,78.1
+East Lothian,2013,78.4
+East Lothian,2014,78.4
+East Lothian,2015,78.4
+East Lothian,2016,78.3
+East Lothian,2017,78.3
+East Renfrewshire,1993,74.7
+East Renfrewshire,1994,75.0
+East Renfrewshire,1995,74.9
+East Renfrewshire,1996,75.4
+East Renfrewshire,1997,75.6
+East Renfrewshire,1998,75.9
+East Renfrewshire,1999,76.2
+East Renfrewshire,2000,75.9
+East Renfrewshire,2001,76.0
+East Renfrewshire,2002,75.7
+East Renfrewshire,2003,75.9
+East Renfrewshire,2004,76.4
+East Renfrewshire,2005,76.9
+East Renfrewshire,2006,77.3
+East Renfrewshire,2007,77.5
+East Renfrewshire,2008,77.5
+East Renfrewshire,2009,77.9
+East Renfrewshire,2010,78.3
+East Renfrewshire,2011,78.9
+East Renfrewshire,2012,79.7
+East Renfrewshire,2013,79.5
+East Renfrewshire,2014,79.7
+East Renfrewshire,2015,79.3
+East Renfrewshire,2016,80.1
+East Renfrewshire,2017,80.5
+Falkirk,1993,71.8
+Falkirk,1994,72.0
+Falkirk,1995,72.4
+Falkirk,1996,72.5
+Falkirk,1997,72.7
+Falkirk,1998,72.6
+Falkirk,1999,73.1
+Falkirk,2000,73.3
+Falkirk,2001,73.6
+Falkirk,2002,73.6
+Falkirk,2003,73.8
+Falkirk,2004,73.9
+Falkirk,2005,74.5
+Falkirk,2006,74.6
+Falkirk,2007,74.9
+Falkirk,2008,75.2
+Falkirk,2009,76.0
+Falkirk,2010,76.4
+Falkirk,2011,76.9
+Falkirk,2012,76.8
+Falkirk,2013,76.7
+Falkirk,2014,77.2
+Falkirk,2015,77.4
+Falkirk,2016,77.3
+Falkirk,2017,77.2
+Fife,1993,72.5
+Fife,1994,72.7
+Fife,1995,73.0
+Fife,1996,73.1
+Fife,1997,73.3
+Fife,1998,73.3
+Fife,1999,73.7
+Fife,2000,74.0
+Fife,2001,74.5
+Fife,2002,74.3
+Fife,2003,74.6
+Fife,2004,74.7
+Fife,2005,75.4
+Fife,2006,75.4
+Fife,2007,75.8
+Fife,2008,75.8
+Fife,2009,76.1
+Fife,2010,76.3
+Fife,2011,76.6
+Fife,2012,77.0
+Fife,2013,77.1
+Fife,2014,77.6
+Fife,2015,77.7
+Fife,2016,77.6
+Fife,2017,77.2
+Glasgow City,1993,68.2
+Glasgow City,1994,68.2
+Glasgow City,1995,67.9
+Glasgow City,1996,68.0
+Glasgow City,1997,68.2
+Glasgow City,1998,68.5
+Glasgow City,1999,68.5
+Glasgow City,2000,68.4
+Glasgow City,2001,68.7
+Glasgow City,2002,68.9
+Glasgow City,2003,69.1
+Glasgow City,2004,69.3
+Glasgow City,2005,69.9
+Glasgow City,2006,70.4
+Glasgow City,2007,70.7
+Glasgow City,2008,70.7
+Glasgow City,2009,71.1
+Glasgow City,2010,71.7
+Glasgow City,2011,72.2
+Glasgow City,2012,72.6
+Glasgow City,2013,73.0
+Glasgow City,2014,73.4
+Glasgow City,2015,73.4
+Glasgow City,2016,73.4
+Glasgow City,2017,73.4
+Highland,1993,71.5
+Highland,1994,72.0
+Highland,1995,72.3
+Highland,1996,72.5
+Highland,1997,72.7
+Highland,1998,72.8
+Highland,1999,73.0
+Highland,2000,72.9
+Highland,2001,73.2
+Highland,2002,73.8
+Highland,2003,74.4
+Highland,2004,74.6
+Highland,2005,75.0
+Highland,2006,75.3
+Highland,2007,75.9
+Highland,2008,76.0
+Highland,2009,76.4
+Highland,2010,76.5
+Highland,2011,76.6
+Highland,2012,77.1
+Highland,2013,77.6
+Highland,2014,78.2
+Highland,2015,77.9
+Highland,2016,77.9
+Highland,2017,77.8
+Inverclyde,1993,69.6
+Inverclyde,1994,69.2
+Inverclyde,1995,69.0
+Inverclyde,1996,68.8
+Inverclyde,1997,69.2
+Inverclyde,1998,69.2
+Inverclyde,1999,69.7
+Inverclyde,2000,69.9
+Inverclyde,2001,70.3
+Inverclyde,2002,70.6
+Inverclyde,2003,70.2
+Inverclyde,2004,70.3
+Inverclyde,2005,71.1
+Inverclyde,2006,72.2
+Inverclyde,2007,72.6
+Inverclyde,2008,73.0
+Inverclyde,2009,73.3
+Inverclyde,2010,73.2
+Inverclyde,2011,73.2
+Inverclyde,2012,73.7
+Inverclyde,2013,74.6
+Inverclyde,2014,75.5
+Inverclyde,2015,75.4
+Inverclyde,2016,75.6
+Inverclyde,2017,75.2
+Midlothian,1993,72.6
+Midlothian,1994,73.1
+Midlothian,1995,73.2
+Midlothian,1996,73.4
+Midlothian,1997,73.1
+Midlothian,1998,73.0
+Midlothian,1999,73.5
+Midlothian,2000,73.7
+Midlothian,2001,74.2
+Midlothian,2002,74.1
+Midlothian,2003,74.7
+Midlothian,2004,75.0
+Midlothian,2005,75.2
+Midlothian,2006,75.1
+Midlothian,2007,76.0
+Midlothian,2008,76.4
+Midlothian,2009,76.6
+Midlothian,2010,76.6
+Midlothian,2011,77.0
+Midlothian,2012,77.5
+Midlothian,2013,77.2
+Midlothian,2014,77.3
+Midlothian,2015,77.4
+Midlothian,2016,77.9
+Midlothian,2017,77.9
+Moray,1993,72.9
+Moray,1994,72.6
+Moray,1995,72.6
+Moray,1996,73.0
+Moray,1997,73.9
+Moray,1998,74.4
+Moray,1999,74.6
+Moray,2000,74.5
+Moray,2001,74.3
+Moray,2002,74.0
+Moray,2003,74.2
+Moray,2004,75.0
+Moray,2005,75.6
+Moray,2006,75.9
+Moray,2007,76.0
+Moray,2008,76.5
+Moray,2009,76.9
+Moray,2010,77.1
+Moray,2011,77.1
+Moray,2012,77.3
+Moray,2013,77.8
+Moray,2014,78.5
+Moray,2015,78.8
+Moray,2016,78.7
+Moray,2017,78.7
+Na h-Eileanan Siar,1993,70.6
+Na h-Eileanan Siar,1994,71.3
+Na h-Eileanan Siar,1995,71.3
+Na h-Eileanan Siar,1996,71.0
+Na h-Eileanan Siar,1997,70.4
+Na h-Eileanan Siar,1998,70.5
+Na h-Eileanan Siar,1999,70.9
+Na h-Eileanan Siar,2000,71.8
+Na h-Eileanan Siar,2001,72.3
+Na h-Eileanan Siar,2002,72.4
+Na h-Eileanan Siar,2003,71.8
+Na h-Eileanan Siar,2004,72.4
+Na h-Eileanan Siar,2005,72.4
+Na h-Eileanan Siar,2006,73.3
+Na h-Eileanan Siar,2007,73.2
+Na h-Eileanan Siar,2008,73.8
+Na h-Eileanan Siar,2009,73.9
+Na h-Eileanan Siar,2010,74.5
+Na h-Eileanan Siar,2011,75.6
+Na h-Eileanan Siar,2012,76.3
+Na h-Eileanan Siar,2013,77.1
+Na h-Eileanan Siar,2014,76.9
+Na h-Eileanan Siar,2015,76.8
+Na h-Eileanan Siar,2016,76.6
+Na h-Eileanan Siar,2017,76.8
+North Ayrshire,1993,71.1
+North Ayrshire,1994,71.6
+North Ayrshire,1995,71.6
+North Ayrshire,1996,71.9
+North Ayrshire,1997,71.8
+North Ayrshire,1998,72.0
+North Ayrshire,1999,72.5
+North Ayrshire,2000,72.6
+North Ayrshire,2001,72.5
+North Ayrshire,2002,72.3
+North Ayrshire,2003,72.7
+North Ayrshire,2004,73.3
+North Ayrshire,2005,73.8
+North Ayrshire,2006,74.0
+North Ayrshire,2007,73.8
+North Ayrshire,2008,73.9
+North Ayrshire,2009,74.1
+North Ayrshire,2010,75.1
+North Ayrshire,2011,75.2
+North Ayrshire,2012,75.9
+North Ayrshire,2013,75.9
+North Ayrshire,2014,76.4
+North Ayrshire,2015,76.1
+North Ayrshire,2016,75.9
+North Ayrshire,2017,76.1
+North Lanarkshire,1993,70.2
+North Lanarkshire,1994,70.6
+North Lanarkshire,1995,70.8
+North Lanarkshire,1996,71.2
+North Lanarkshire,1997,71.1
+North Lanarkshire,1998,71.2
+North Lanarkshire,1999,71.4
+North Lanarkshire,2000,71.8
+North Lanarkshire,2001,71.8
+North Lanarkshire,2002,72.0
+North Lanarkshire,2003,71.9
+North Lanarkshire,2004,72.4
+North Lanarkshire,2005,72.8
+North Lanarkshire,2006,73.0
+North Lanarkshire,2007,72.8
+North Lanarkshire,2008,73.2
+North Lanarkshire,2009,73.9
+North Lanarkshire,2010,74.4
+North Lanarkshire,2011,74.7
+North Lanarkshire,2012,74.9
+North Lanarkshire,2013,75.1
+North Lanarkshire,2014,75.4
+North Lanarkshire,2015,75.3
+North Lanarkshire,2016,75.4
+North Lanarkshire,2017,75.3
+Orkney Islands,1993,73.1
+Orkney Islands,1994,73.0
+Orkney Islands,1995,73.3
+Orkney Islands,1996,73.3
+Orkney Islands,1997,73.4
+Orkney Islands,1998,73.4
+Orkney Islands,1999,73.5
+Orkney Islands,2000,74.1
+Orkney Islands,2001,74.4
+Orkney Islands,2002,75.3
+Orkney Islands,2003,75.9
+Orkney Islands,2004,76.6
+Orkney Islands,2005,76.5
+Orkney Islands,2006,76.4
+Orkney Islands,2007,75.3
+Orkney Islands,2008,74.9
+Orkney Islands,2009,76.0
+Orkney Islands,2010,77.8
+Orkney Islands,2011,79.4
+Orkney Islands,2012,79.5
+Orkney Islands,2013,78.6
+Orkney Islands,2014,78.7
+Orkney Islands,2015,78.8
+Orkney Islands,2016,80.4
+Orkney Islands,2017,79.5
+Perth and Kinross,1993,72.7
+Perth and Kinross,1994,73.2
+Perth and Kinross,1995,73.2
+Perth and Kinross,1996,73.6
+Perth and Kinross,1997,73.8
+Perth and Kinross,1998,74.5
+Perth and Kinross,1999,74.8
+Perth and Kinross,2000,75.3
+Perth and Kinross,2001,75.4
+Perth and Kinross,2002,75.9
+Perth and Kinross,2003,76.0
+Perth and Kinross,2004,76.2
+Perth and Kinross,2005,76.4
+Perth and Kinross,2006,76.4
+Perth and Kinross,2007,76.7
+Perth and Kinross,2008,77.4
+Perth and Kinross,2009,78.0
+Perth and Kinross,2010,78.8
+Perth and Kinross,2011,79.2
+Perth and Kinross,2012,79.4
+Perth and Kinross,2013,79.2
+Perth and Kinross,2014,79.4
+Perth and Kinross,2015,79.8
+Perth and Kinross,2016,79.9
+Perth and Kinross,2017,79.3
+Renfrewshire,1993,70.5
+Renfrewshire,1994,70.7
+Renfrewshire,1995,71.4
+Renfrewshire,1996,71.5
+Renfrewshire,1997,71.6
+Renfrewshire,1998,71.3
+Renfrewshire,1999,71.0
+Renfrewshire,2000,71.1
+Renfrewshire,2001,71.7
+Renfrewshire,2002,71.9
+Renfrewshire,2003,71.9
+Renfrewshire,2004,71.9
+Renfrewshire,2005,72.7
+Renfrewshire,2006,73.4
+Renfrewshire,2007,73.7
+Renfrewshire,2008,73.7
+Renfrewshire,2009,73.8
+Renfrewshire,2010,74.0
+Renfrewshire,2011,74.7
+Renfrewshire,2012,75.2
+Renfrewshire,2013,75.7
+Renfrewshire,2014,75.9
+Renfrewshire,2015,76.3
+Renfrewshire,2016,76.4
+Renfrewshire,2017,76.2
+Scottish Borders,1993,73.4
+Scottish Borders,1994,74.1
+Scottish Borders,1995,74.5
+Scottish Borders,1996,74.8
+Scottish Borders,1997,74.7
+Scottish Borders,1998,74.9
+Scottish Borders,1999,74.9
+Scottish Borders,2000,75.1
+Scottish Borders,2001,75.7
+Scottish Borders,2002,75.4
+Scottish Borders,2003,75.4
+Scottish Borders,2004,75.3
+Scottish Borders,2005,75.9
+Scottish Borders,2006,76.5
+Scottish Borders,2007,76.7
+Scottish Borders,2008,77.2
+Scottish Borders,2009,77.2
+Scottish Borders,2010,77.6
+Scottish Borders,2011,78.0
+Scottish Borders,2012,78.6
+Scottish Borders,2013,79.2
+Scottish Borders,2014,79.2
+Scottish Borders,2015,78.8
+Scottish Borders,2016,78.6
+Scottish Borders,2017,79.0
+Shetland Islands,1993,72.1
+Shetland Islands,1994,71.3
+Shetland Islands,1995,71.1
+Shetland Islands,1996,71.7
+Shetland Islands,1997,72.1
+Shetland Islands,1998,72.2
+Shetland Islands,1999,73.0
+Shetland Islands,2000,74.2
+Shetland Islands,2001,74.9
+Shetland Islands,2002,74.9
+Shetland Islands,2003,73.5
+Shetland Islands,2004,74.1
+Shetland Islands,2005,75.2
+Shetland Islands,2006,76.2
+Shetland Islands,2007,75.7
+Shetland Islands,2008,74.8
+Shetland Islands,2009,76.0
+Shetland Islands,2010,77.0
+Shetland Islands,2011,78.0
+Shetland Islands,2012,77.4
+Shetland Islands,2013,77.8
+Shetland Islands,2014,77.8
+Shetland Islands,2015,77.6
+Shetland Islands,2016,77.6
+Shetland Islands,2017,78.3
+South Ayrshire,1993,72.0
+South Ayrshire,1994,72.9
+South Ayrshire,1995,73.1
+South Ayrshire,1996,73.7
+South Ayrshire,1997,73.4
+South Ayrshire,1998,73.3
+South Ayrshire,1999,73.8
+South Ayrshire,2000,74.1
+South Ayrshire,2001,74.2
+South Ayrshire,2002,73.9
+South Ayrshire,2003,74.0
+South Ayrshire,2004,74.4
+South Ayrshire,2005,75.0
+South Ayrshire,2006,75.7
+South Ayrshire,2007,75.6
+South Ayrshire,2008,75.4
+South Ayrshire,2009,75.7
+South Ayrshire,2010,76.3
+South Ayrshire,2011,77.1
+South Ayrshire,2012,77.3
+South Ayrshire,2013,77.6
+South Ayrshire,2014,78.2
+South Ayrshire,2015,77.7
+South Ayrshire,2016,77.5
+South Ayrshire,2017,77.2
+South Lanarkshire,1993,71.6
+South Lanarkshire,1994,71.7
+South Lanarkshire,1995,71.7
+South Lanarkshire,1996,72.1
+South Lanarkshire,1997,72.3
+South Lanarkshire,1998,72.6
+South Lanarkshire,1999,72.5
+South Lanarkshire,2000,72.8
+South Lanarkshire,2001,73.4
+South Lanarkshire,2002,73.8
+South Lanarkshire,2003,74.0
+South Lanarkshire,2004,73.9
+South Lanarkshire,2005,74.3
+South Lanarkshire,2006,74.4
+South Lanarkshire,2007,74.3
+South Lanarkshire,2008,74.4
+South Lanarkshire,2009,74.8
+South Lanarkshire,2010,75.7
+South Lanarkshire,2011,76.2
+South Lanarkshire,2012,76.3
+South Lanarkshire,2013,76.5
+South Lanarkshire,2014,76.6
+South Lanarkshire,2015,77.0
+South Lanarkshire,2016,76.8
+South Lanarkshire,2017,76.8
+Stirling,1993,71.7
+Stirling,1994,72.2
+Stirling,1995,72.9
+Stirling,1996,73.2
+Stirling,1997,73.7
+Stirling,1998,73.7
+Stirling,1999,74.4
+Stirling,2000,74.5
+Stirling,2001,75.0
+Stirling,2002,75.2
+Stirling,2003,75.5
+Stirling,2004,75.7
+Stirling,2005,76.4
+Stirling,2006,76.7
+Stirling,2007,76.9
+Stirling,2008,77.1
+Stirling,2009,77.4
+Stirling,2010,77.8
+Stirling,2011,78.3
+Stirling,2012,78.3
+Stirling,2013,78.5
+Stirling,2014,78.3
+Stirling,2015,78.5
+Stirling,2016,78.7
+Stirling,2017,78.8
+West Dunbartonshire,1993,69.5
+West Dunbartonshire,1994,70.2
+West Dunbartonshire,1995,70.9
+West Dunbartonshire,1996,70.4
+West Dunbartonshire,1997,69.3
+West Dunbartonshire,1998,69.5
+West Dunbartonshire,1999,69.8
+West Dunbartonshire,2000,70.7
+West Dunbartonshire,2001,70.8
+West Dunbartonshire,2002,70.8
+West Dunbartonshire,2003,70.8
+West Dunbartonshire,2004,70.8
+West Dunbartonshire,2005,71.0
+West Dunbartonshire,2006,71.8
+West Dunbartonshire,2007,72.0
+West Dunbartonshire,2008,72.1
+West Dunbartonshire,2009,72.6
+West Dunbartonshire,2010,73.7
+West Dunbartonshire,2011,74.2
+West Dunbartonshire,2012,74.1
+West Dunbartonshire,2013,74.2
+West Dunbartonshire,2014,74.6
+West Dunbartonshire,2015,74.8
+West Dunbartonshire,2016,74.7
+West Dunbartonshire,2017,75.0
+West Lothian,1993,71.4
+West Lothian,1994,71.6
+West Lothian,1995,72.0
+West Lothian,1996,72.4
+West Lothian,1997,72.3
+West Lothian,1998,71.9
+West Lothian,1999,72.1
+West Lothian,2000,72.4
+West Lothian,2001,72.9
+West Lothian,2002,73.4
+West Lothian,2003,73.5
+West Lothian,2004,74.3
+West Lothian,2005,74.3
+West Lothian,2006,75.1
+West Lothian,2007,75.4
+West Lothian,2008,75.9
+West Lothian,2009,75.9
+West Lothian,2010,76.2
+West Lothian,2011,76.7
+West Lothian,2012,77.0
+West Lothian,2013,77.4
+West Lothian,2014,77.8
+West Lothian,2015,78.2
+West Lothian,2016,78.3
+West Lothian,2017,78.1
