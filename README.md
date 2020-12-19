@@ -1,8 +1,6 @@
 # Enterprise and Skills Dashboard
 The Economy Board requested that OCEA lead on developing a performance framework for the Economy Board, taking into account the framework developed for the Enterprise and Skills Strategic Board.
 
-# Enetrprise and Skills Dashboard
-
 ## 📦 Packages
 library(scales)             ##For easier formatting of figures
 library(shinydashboard)     ##For Dashboard template
