@@ -4,25 +4,25 @@ The Economy Board requested that OCEA lead on developing a performance framework
 ![Image of the home page](https://github.com/DataScienceScotland/sg-regional-economic-dashboard/blob/master/sshot-2020-12-19-20-19-11.png?raw=true)
 
 ## 📦 Packages
-library(scales)             ##For easier formatting of figures
-library(shinydashboard)     ##For Dashboard template
-library(shiny)              ##For App
-library(plyr)               ##For rounding
-library(tidyverse)          ##For installing multiple useful libraries at once (particularly tidyr, ggplot2, dplyr amongst others)
-library(shinythemes)        ##For themes
-library(shinyjs)            ##For more functions (javascript)
-library(DT)                 ##For Datatables
-library(stringr)            ##For string case changes
-library(shinyjs)            ##For javascript elements in app
-library(ggrepel)            ##For text repel for graphs
-library(openxlsx)           ##For reading excel files (not reliant on Java)
-library(shinycssloaders)    ##For the Spinners
-library(plotly)             ##For interactive graphs
-library(shinyEffects)       ##For added effects, like zooming in on buttons on the home page
-library(V8)
-library(scales)
-library(shinyWidgets)
-library(ggiraph)
+- library(scales)             ##For easier formatting of figures
+- library(shinydashboard)     ##For Dashboard template
+- library(shiny)              ##For App
+- library(plyr)               ##For rounding
+- library(tidyverse)          ##For installing multiple useful libraries at once (particularly tidyr, ggplot2, dplyr amongst others)
+- library(shinythemes)        ##For themes
+- library(shinyjs)            ##For more functions (javascript)
+- library(DT)                 ##For Datatables
+- library(stringr)            ##For string case changes
+- library(shinyjs)            ##For javascript elements in app
+- library(ggrepel)            ##For text repel for graphs
+- library(openxlsx)           ##For reading excel files (not reliant on Java)
+- library(shinycssloaders)    ##For the Spinners
+- library(plotly)             ##For interactive graphs
+- library(shinyEffects)       ##For added effects, like zooming in on buttons on the home page
+- library(V8)
+- library(scales)
+- library(shinyWidgets)
+- library(ggiraph)
 
 ## 📖 Updating with new data
 Link to the Word document describing the process of updating the dashboard with new data [here](https://github.com/DataScienceScotland/sg-enterprise-and-skills-dashboard/blob/master/Updating%20ESD.docx).
