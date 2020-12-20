@@ -1,7 +1,7 @@
 # Enterprise and Skills Dashboard
 The Economy Board requested that OCEA lead on developing a performance framework for the Economy Board, taking into account the framework developed for the Enterprise and Skills Strategic Board.
 
-![Image of the home page](https://github.com/DataScienceScotland/sg-regional-economic-dashboard/blob/master/sshot-2020-12-19-20-19-11.png?raw=true)
+![Image of the home page](https://github.com/DataScienceScotland/sg-enterprise-and-skills-dashboard/blob/master/sshot-2020-12-20-09-51-27.png?raw=true)
 
 ## 📦 Packages
 - library(scales)             ##For easier formatting of figures
