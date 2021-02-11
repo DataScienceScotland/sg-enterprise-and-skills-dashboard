@@ -1,12 +1,10 @@
-name: ESSB_test
-title: ESSB_test
+name: ESSB_Test
+title:
 username:
 account: hmacgregor
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 1945597
-bundleId: 2923451
-url: https://hmacgregor.shinyapps.io/ESSB_test/
-when: 1585154563.63971
-asMultiple: FALSE
-asStatic: FALSE
+appId: 3620702
+bundleId: 4209765
+url: https://hmacgregor.shinyapps.io/ESSB_Test/
+when: 1613042421.03184

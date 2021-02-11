@@ -1,12 +1,10 @@
 name: sg-enterprise-and-skills-dashboard
-title: sg-enterprise-and-skills-dashboard
+title:
 username:
 account: hmacgregor
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 1994542
-bundleId: 2923509
+appId: 3620731
+bundleId: 4209818
 url: https://hmacgregor.shinyapps.io/sg-enterprise-and-skills-dashboard/
-when: 1585155280.04942
-asMultiple: FALSE
-asStatic: FALSE
+when: 1613043497.79445

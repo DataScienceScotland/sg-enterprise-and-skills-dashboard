@@ -5,8 +5,6 @@ account: scotland
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1994572
-bundleId: 3749239
+bundleId: 4209838
 url: https://scotland.shinyapps.io/sg-enterprise-and-skills-dashboard/
-when: 1602861104.64258
-asMultiple: FALSE
-asStatic: FALSE
+when: 1613043849.78959
